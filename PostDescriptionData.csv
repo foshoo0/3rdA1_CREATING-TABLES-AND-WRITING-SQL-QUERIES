@@ -1,0 +1,1001 @@
+PostID,PostDescription,PostedBy,IsPublic,IsOnlyForFriends,GroupID,DatePosted
+1,What’s the best way to prepare for the final exams?,3,true,true,4,6/12/2023
+2,Looking for someone to review my essay on environmental policies.,3,true,true,1,4/29/2023
+3,What’s the easiest way to memorize historical dates?,5,false,true,1,10/12/2023
+4,Does anyone have notes for yesterday's History lecture?,3,false,true,4,2/28/2023
+5,Seeking help with coding assignments. Any volunteers?,2,false,true,4,7/10/2023
+6,I’m struggling with my thesis. Any tips?,3,false,false,4,1/10/2024
+7,How do I join the student council?,4,false,true,3,3/18/2024
+8,Who’s interested in joining a debate club?,3,false,false,5,7/18/2023
+9,Can someone explain the concept of statistical regression?,3,false,false,3,8/20/2024
+10,What’s the best coffee shop on campus for studying?,2,true,false,3,9/9/2023
+11,Need advice on balancing work and study. Any suggestions?,1,true,false,2,4/12/2024
+12,Can someone share their experience with online classes this semester?,2,false,true,4,5/7/2023
+13,Looking for study buddies for the upcoming exams!,3,true,true,2,10/18/2023
+14,What’s the best way to prepare for the final exams?,2,true,false,3,5/17/2023
+15,Who’s interested in joining a debate club?,3,true,false,5,1/8/2023
+16,What’s the best way to prepare for the final exams?,5,true,false,5,7/27/2024
+17,I’m struggling with my thesis. Any tips?,3,true,true,3,8/2/2023
+18,Any tips on staying motivated during the exam season?,1,false,false,1,4/19/2023
+19,Looking for study buddies for the upcoming exams!,1,false,false,4,7/7/2024
+20,I’m struggling with my thesis. Any tips?,1,false,true,3,8/3/2024
+21,Looking for someone to review my essay on environmental policies.,1,false,true,4,2/13/2024
+22,Is anyone available for a group project on Monday?,4,true,false,5,10/1/2023
+23,Looking for recommendations on elective courses for next semester.,5,false,true,5,2/22/2023
+24,What’s the best way to prepare for the final exams?,5,false,true,1,2/4/2023
+25,What’s the best coffee shop on campus for studying?,3,false,false,5,3/3/2023
+26,Does anyone know when the library is open during the holidays?,5,false,true,1,11/21/2023
+27,Seeking help with coding assignments. Any volunteers?,4,true,false,3,6/18/2023
+28,Need advice on balancing work and study. Any suggestions?,2,false,true,1,7/21/2024
+29,Can someone explain the concept of statistical regression?,4,true,false,5,10/25/2023
+30,What’s the best way to prepare for the final exams?,2,false,false,1,3/8/2024
+31,Who’s interested in joining a debate club?,5,true,true,3,4/28/2023
+32,Can anyone help me with the assignment in Advanced Calculus?,4,true,true,4,4/11/2023
+33,Seeking help with coding assignments. Any volunteers?,5,false,false,5,10/30/2023
+34,Any tips on staying motivated during the exam season?,1,false,true,2,2/21/2024
+35,Does anyone know when the library is open during the holidays?,2,true,false,3,6/22/2024
+36,Looking for study buddies for the upcoming exams!,5,true,false,5,12/3/2023
+37,Who’s interested in joining a debate club?,2,false,false,5,9/23/2023
+38,Looking for study buddies for the upcoming exams!,4,false,false,4,10/31/2023
+39,Forming a study group for Organic Chemistry—anyone interested?,2,false,true,3,2/17/2024
+40,Can someone share their experience with online classes this semester?,3,false,true,5,6/7/2023
+41,Seeking help with coding assignments. Any volunteers?,4,false,false,2,10/28/2023
+42,Need advice on balancing work and study. Any suggestions?,5,true,false,3,1/5/2024
+43,Forming a study group for Organic Chemistry—anyone interested?,5,false,false,2,4/19/2024
+44,I’m struggling with my thesis. Any tips?,1,true,true,3,4/14/2023
+45,Forming a study group for Organic Chemistry—anyone interested?,1,true,true,3,2/2/2024
+46,What’s the best coffee shop on campus for studying?,1,true,false,1,4/18/2023
+47,Forming a study group for Organic Chemistry—anyone interested?,4,true,true,2,11/1/2023
+48,Looking for recommendations on elective courses for next semester.,3,false,false,4,12/29/2023
+49,Is anyone available for a group project on Monday?,4,true,true,2,4/21/2023
+50,Looking for recommendations on elective courses for next semester.,5,true,false,5,8/15/2023
+51,Looking for someone to review my essay on environmental policies.,1,true,true,1,7/16/2024
+52,Can someone share their experience with online classes this semester?,4,true,false,5,10/21/2023
+53,I’m struggling with my thesis. Any tips?,4,false,true,3,3/3/2024
+54,Does anyone have notes for yesterday's History lecture?,5,false,true,5,1/18/2024
+55,What’s the best coffee shop on campus for studying?,4,false,false,1,7/26/2023
+56,Forming a study group for Organic Chemistry—anyone interested?,3,true,true,5,1/25/2023
+57,Looking for study buddies for the upcoming exams!,5,false,false,4,5/19/2024
+58,What’s the best way to prepare for the final exams?,3,false,false,5,8/20/2024
+59,Seeking help with coding assignments. Any volunteers?,2,false,false,4,3/28/2024
+60,What’s the best way to prepare for the final exams?,4,true,true,3,3/27/2024
+61,Any tips on staying motivated during the exam season?,4,false,true,2,6/7/2024
+62,What’s the easiest way to memorize historical dates?,4,false,false,3,6/13/2024
+63,Looking for study buddies for the upcoming exams!,4,false,true,2,12/2/2023
+64,Can someone explain the concept of statistical regression?,2,false,false,3,11/7/2023
+65,Who’s interested in joining a debate club?,3,false,true,3,2/28/2023
+66,Does anyone know when the library is open during the holidays?,2,true,true,1,7/25/2023
+67,Who else is excited about the upcoming university festival?,2,false,false,2,5/5/2024
+68,What’s the easiest way to memorize historical dates?,1,false,false,2,3/13/2024
+69,Does anyone know when the library is open during the holidays?,5,false,true,2,5/31/2024
+70,Looking for study buddies for the upcoming exams!,1,true,false,4,2/19/2023
+71,What’s the best coffee shop on campus for studying?,4,true,true,4,2/11/2023
+72,Can someone explain the concept of statistical regression?,2,true,true,1,2/26/2024
+73,Forming a study group for Organic Chemistry—anyone interested?,2,false,false,5,3/20/2024
+74,Who’s interested in joining a debate club?,2,true,false,3,3/5/2023
+75,Any tips on staying motivated during the exam season?,5,true,true,2,7/11/2023
+76,Looking for study buddies for the upcoming exams!,4,false,false,4,4/19/2023
+77,Does anyone have notes for yesterday's History lecture?,3,false,true,2,1/8/2024
+78,What’s the best way to prepare for the final exams?,5,true,true,2,2/1/2023
+79,Seeking help with coding assignments. Any volunteers?,3,true,false,1,3/23/2023
+80,Who’s interested in joining a debate club?,1,false,false,3,12/29/2023
+81,Looking for someone to review my essay on environmental policies.,5,true,false,2,1/21/2024
+82,Does anyone know when the library is open during the holidays?,5,true,false,5,1/29/2024
+83,What’s the easiest way to memorize historical dates?,1,true,true,1,3/19/2023
+84,Who’s interested in joining a debate club?,4,true,false,4,10/5/2023
+85,Who’s interested in joining a debate club?,1,true,false,2,12/20/2023
+86,Does anyone have notes for yesterday's History lecture?,5,false,false,3,6/27/2023
+87,What’s the best way to prepare for the final exams?,2,true,true,2,10/31/2023
+88,How do I join the student council?,5,false,true,2,8/21/2024
+89,Can someone explain the concept of statistical regression?,1,false,true,1,1/7/2024
+90,Looking for someone to review my essay on environmental policies.,5,true,false,4,8/4/2023
+91,I’m struggling with my thesis. Any tips?,1,false,false,5,5/29/2023
+92,Can someone explain the concept of statistical regression?,3,false,true,5,10/4/2023
+93,How do I join the student council?,3,true,false,5,4/11/2023
+94,Forming a study group for Organic Chemistry—anyone interested?,5,false,true,2,5/5/2024
+95,Looking for recommendations on elective courses for next semester.,2,true,true,5,9/17/2023
+96,I’m struggling with my thesis. Any tips?,1,true,true,2,7/4/2023
+97,What’s the easiest way to memorize historical dates?,1,true,true,4,9/3/2023
+98,What’s the best coffee shop on campus for studying?,3,true,false,4,10/6/2023
+99,Is anyone available for a group project on Monday?,4,true,true,1,4/4/2023
+100,What’s the best way to prepare for the final exams?,2,false,true,5,4/23/2023
+101,Need advice on balancing work and study. Any suggestions?,4,false,true,4,11/16/2023
+102,Does anyone know when the library is open during the holidays?,1,false,false,1,8/28/2023
+103,Any tips on staying motivated during the exam season?,5,true,true,2,8/17/2023
+104,Can someone explain the concept of statistical regression?,1,false,true,3,7/18/2024
+105,Forming a study group for Organic Chemistry—anyone interested?,2,true,false,2,8/30/2023
+106,What’s the best way to prepare for the final exams?,4,false,true,5,5/18/2023
+107,What’s the best way to prepare for the final exams?,4,true,true,5,2/17/2023
+108,Looking for recommendations on elective courses for next semester.,1,true,false,4,9/11/2023
+109,Forming a study group for Organic Chemistry—anyone interested?,4,true,true,5,8/23/2023
+110,Looking for recommendations on elective courses for next semester.,5,true,true,3,4/19/2024
+111,Forming a study group for Organic Chemistry—anyone interested?,1,false,true,2,4/24/2023
+112,What’s the best coffee shop on campus for studying?,4,false,true,1,3/13/2023
+113,Looking for recommendations on elective courses for next semester.,5,true,true,5,1/5/2024
+114,What’s the easiest way to memorize historical dates?,2,false,true,2,7/8/2023
+115,Any tips on staying motivated during the exam season?,2,true,true,3,3/27/2024
+116,Who else is excited about the upcoming university festival?,5,true,true,4,6/11/2024
+117,Need advice on balancing work and study. Any suggestions?,2,true,true,5,5/23/2024
+118,Seeking help with coding assignments. Any volunteers?,4,true,false,5,4/8/2023
+119,What’s the easiest way to memorize historical dates?,5,false,false,2,12/26/2023
+120,What’s the best coffee shop on campus for studying?,4,false,false,5,7/21/2024
+121,I’m struggling with my thesis. Any tips?,2,true,false,4,4/20/2023
+122,Is anyone available for a group project on Monday?,5,false,false,5,1/2/2023
+123,What’s the best coffee shop on campus for studying?,2,true,true,4,4/18/2023
+124,Does anyone have notes for yesterday's History lecture?,3,true,true,3,2/13/2023
+125,What’s the best coffee shop on campus for studying?,4,true,false,3,2/10/2024
+126,Who else is excited about the upcoming university festival?,2,false,false,4,2/13/2023
+127,How do I join the student council?,3,true,false,3,12/30/2023
+128,Who’s interested in joining a debate club?,5,true,false,1,5/12/2024
+129,Need advice on balancing work and study. Any suggestions?,1,true,true,2,1/5/2024
+130,Is anyone available for a group project on Monday?,5,false,true,4,1/11/2024
+131,Seeking help with coding assignments. Any volunteers?,1,false,true,2,7/7/2024
+132,Looking for recommendations on elective courses for next semester.,2,false,true,4,4/18/2024
+133,What’s the best coffee shop on campus for studying?,3,true,false,1,8/14/2024
+134,What’s the easiest way to memorize historical dates?,1,false,false,4,6/22/2024
+135,Seeking help with coding assignments. Any volunteers?,2,true,false,5,12/30/2023
+136,I’m struggling with my thesis. Any tips?,2,true,false,1,5/22/2023
+137,What’s the easiest way to memorize historical dates?,2,true,true,5,10/25/2023
+138,Forming a study group for Organic Chemistry—anyone interested?,3,false,false,5,8/6/2023
+139,Forming a study group for Organic Chemistry—anyone interested?,4,false,true,3,4/8/2023
+140,Looking for someone to review my essay on environmental policies.,3,true,true,1,11/22/2023
+141,Does anyone know when the library is open during the holidays?,1,false,true,4,7/21/2024
+142,Can someone share their experience with online classes this semester?,3,false,true,3,3/8/2023
+143,I’m struggling with my thesis. Any tips?,4,true,true,3,10/7/2023
+144,Any tips on staying motivated during the exam season?,5,false,true,2,11/2/2023
+145,Forming a study group for Organic Chemistry—anyone interested?,5,false,false,2,6/4/2024
+146,Looking for someone to review my essay on environmental policies.,5,false,false,4,8/13/2023
+147,What’s the best coffee shop on campus for studying?,4,false,false,3,5/3/2023
+148,Seeking help with coding assignments. Any volunteers?,2,false,false,5,4/4/2024
+149,What’s the easiest way to memorize historical dates?,5,true,false,3,6/17/2023
+150,Looking for someone to review my essay on environmental policies.,2,false,true,5,3/19/2024
+151,Who’s interested in joining a debate club?,5,true,false,5,1/6/2023
+152,Any tips on staying motivated during the exam season?,4,false,true,2,3/1/2023
+153,Who else is excited about the upcoming university festival?,3,true,false,3,6/2/2024
+154,How do I join the student council?,2,true,false,4,12/6/2023
+155,Does anyone know when the library is open during the holidays?,5,true,false,4,7/20/2023
+156,Looking for recommendations on elective courses for next semester.,4,false,true,1,2/9/2023
+157,Can anyone help me with the assignment in Advanced Calculus?,2,true,false,2,7/13/2024
+158,What’s the best way to prepare for the final exams?,3,false,true,5,2/8/2024
+159,Looking for study buddies for the upcoming exams!,1,false,true,4,7/29/2024
+160,How do I join the student council?,3,true,false,4,7/16/2024
+161,How do I join the student council?,3,true,false,1,12/10/2023
+162,Who’s interested in joining a debate club?,1,true,true,5,6/10/2023
+163,Who else is excited about the upcoming university festival?,5,true,false,5,7/29/2024
+164,What’s the best way to prepare for the final exams?,2,false,true,5,1/18/2024
+165,Does anyone know when the library is open during the holidays?,4,false,false,2,8/9/2024
+166,Any tips on staying motivated during the exam season?,5,true,true,2,3/17/2023
+167,Can anyone help me with the assignment in Advanced Calculus?,3,true,true,4,6/7/2023
+168,Does anyone have notes for yesterday's History lecture?,2,true,false,5,5/24/2023
+169,Can someone share their experience with online classes this semester?,4,true,true,5,4/22/2023
+170,Is anyone available for a group project on Monday?,3,false,true,1,5/15/2023
+171,Any tips on staying motivated during the exam season?,1,false,true,3,12/5/2023
+172,Who’s interested in joining a debate club?,2,false,true,5,10/30/2023
+173,Does anyone have notes for yesterday's History lecture?,1,false,true,2,2/21/2023
+174,I’m struggling with my thesis. Any tips?,1,true,true,2,1/13/2024
+175,How do I join the student council?,5,false,false,4,8/9/2024
+176,What’s the easiest way to memorize historical dates?,1,false,false,5,3/7/2024
+177,What’s the best way to prepare for the final exams?,3,true,false,2,6/11/2023
+178,Is anyone available for a group project on Monday?,5,false,true,5,2/21/2024
+179,Looking for study buddies for the upcoming exams!,4,true,true,4,7/17/2023
+180,Does anyone know when the library is open during the holidays?,4,true,true,3,3/29/2024
+181,Looking for someone to review my essay on environmental policies.,3,true,false,5,10/29/2023
+182,Looking for recommendations on elective courses for next semester.,4,true,false,1,11/30/2023
+183,Who’s interested in joining a debate club?,3,false,true,4,1/17/2024
+184,Who’s interested in joining a debate club?,2,true,true,3,7/16/2024
+185,Looking for recommendations on elective courses for next semester.,5,false,true,1,2/1/2023
+186,Is anyone available for a group project on Monday?,4,false,true,4,6/27/2023
+187,Who’s interested in joining a debate club?,3,false,false,5,6/10/2023
+188,How do I join the student council?,3,false,false,5,6/14/2023
+189,What’s the best way to prepare for the final exams?,5,true,true,2,12/16/2023
+190,What’s the best way to prepare for the final exams?,2,true,true,5,12/26/2023
+191,Can anyone help me with the assignment in Advanced Calculus?,3,false,false,5,4/2/2024
+192,Seeking help with coding assignments. Any volunteers?,3,true,true,5,4/18/2023
+193,Looking for study buddies for the upcoming exams!,4,false,false,3,11/7/2023
+194,Looking for someone to review my essay on environmental policies.,4,true,false,1,5/24/2023
+195,I’m struggling with my thesis. Any tips?,4,true,false,3,6/28/2023
+196,Can someone share their experience with online classes this semester?,5,true,false,3,1/30/2024
+197,Does anyone know when the library is open during the holidays?,2,false,true,3,1/4/2024
+198,Forming a study group for Organic Chemistry—anyone interested?,3,true,false,1,4/15/2024
+199,Does anyone have notes for yesterday's History lecture?,5,false,false,4,4/26/2024
+200,How do I join the student council?,2,false,true,5,5/30/2024
+201,Can anyone help me with the assignment in Advanced Calculus?,5,true,false,3,7/31/2023
+202,Looking for recommendations on elective courses for next semester.,2,true,false,2,9/7/2023
+203,Is anyone available for a group project on Monday?,1,true,false,4,8/4/2024
+204,I’m struggling with my thesis. Any tips?,2,false,true,4,6/28/2023
+205,Need advice on balancing work and study. Any suggestions?,5,true,false,2,10/5/2023
+206,What’s the easiest way to memorize historical dates?,2,true,true,2,1/26/2023
+207,Does anyone know when the library is open during the holidays?,3,false,true,1,6/10/2024
+208,Forming a study group for Organic Chemistry—anyone interested?,5,false,false,2,10/29/2023
+209,Any tips on staying motivated during the exam season?,1,true,false,4,11/23/2023
+210,Looking for someone to review my essay on environmental policies.,3,false,true,2,12/1/2023
+211,Can anyone help me with the assignment in Advanced Calculus?,3,true,true,3,5/31/2024
+212,Does anyone know when the library is open during the holidays?,1,false,false,3,4/8/2024
+213,Is anyone available for a group project on Monday?,1,true,true,4,2/13/2023
+214,What’s the easiest way to memorize historical dates?,4,false,false,3,9/4/2023
+215,What’s the best way to prepare for the final exams?,3,true,true,2,10/2/2023
+216,Is anyone available for a group project on Monday?,2,false,true,2,1/19/2024
+217,Looking for study buddies for the upcoming exams!,1,true,true,5,1/23/2024
+218,How do I join the student council?,3,false,false,5,5/4/2024
+219,Who’s interested in joining a debate club?,1,false,false,2,4/28/2024
+220,Seeking help with coding assignments. Any volunteers?,5,false,false,2,1/14/2024
+221,Who’s interested in joining a debate club?,3,true,false,3,6/2/2023
+222,Need advice on balancing work and study. Any suggestions?,5,true,false,2,4/13/2024
+223,Any tips on staying motivated during the exam season?,2,true,true,3,12/19/2023
+224,Can anyone help me with the assignment in Advanced Calculus?,2,false,false,1,5/31/2023
+225,Is anyone available for a group project on Monday?,2,false,true,2,5/29/2023
+226,How do I join the student council?,2,true,true,3,1/25/2024
+227,Looking for study buddies for the upcoming exams!,4,true,true,5,11/4/2023
+228,What’s the best way to prepare for the final exams?,5,false,false,2,5/6/2024
+229,How do I join the student council?,5,true,false,4,7/16/2024
+230,Does anyone have notes for yesterday's History lecture?,1,true,false,4,3/20/2024
+231,Who’s interested in joining a debate club?,3,false,false,5,4/24/2024
+232,Need advice on balancing work and study. Any suggestions?,4,true,false,5,12/18/2023
+233,Does anyone have notes for yesterday's History lecture?,5,true,false,3,1/10/2023
+234,Any tips on staying motivated during the exam season?,4,true,true,5,2/11/2023
+235,What’s the best coffee shop on campus for studying?,1,true,false,3,8/1/2023
+236,Can anyone help me with the assignment in Advanced Calculus?,5,false,true,2,1/9/2024
+237,Who’s interested in joining a debate club?,1,true,true,5,7/23/2023
+238,Seeking help with coding assignments. Any volunteers?,2,false,false,3,1/22/2023
+239,Does anyone know when the library is open during the holidays?,5,true,false,5,3/4/2023
+240,What’s the best coffee shop on campus for studying?,2,true,true,1,3/18/2023
+241,What’s the best coffee shop on campus for studying?,5,false,false,3,2/3/2023
+242,Looking for study buddies for the upcoming exams!,1,false,false,3,4/22/2024
+243,Does anyone have notes for yesterday's History lecture?,5,true,true,4,8/20/2024
+244,Does anyone have notes for yesterday's History lecture?,1,true,true,1,6/8/2024
+245,How do I join the student council?,3,false,false,2,2/19/2023
+246,How do I join the student council?,2,false,true,1,5/26/2024
+247,Can someone share their experience with online classes this semester?,1,true,false,4,7/6/2023
+248,Does anyone have notes for yesterday's History lecture?,1,false,true,4,8/1/2024
+249,Who else is excited about the upcoming university festival?,1,true,false,3,1/8/2024
+250,What’s the easiest way to memorize historical dates?,3,true,false,2,3/3/2023
+251,Who’s interested in joining a debate club?,4,false,true,2,5/2/2023
+252,Who else is excited about the upcoming university festival?,2,false,true,5,5/29/2024
+253,Does anyone know when the library is open during the holidays?,4,true,false,2,9/9/2023
+254,Is anyone available for a group project on Monday?,3,false,true,5,5/19/2023
+255,Is anyone available for a group project on Monday?,5,true,false,2,7/7/2024
+256,Who else is excited about the upcoming university festival?,3,false,false,4,1/1/2023
+257,Seeking help with coding assignments. Any volunteers?,2,false,true,4,4/2/2024
+258,Seeking help with coding assignments. Any volunteers?,3,true,false,5,10/11/2023
+259,Can anyone help me with the assignment in Advanced Calculus?,1,true,false,4,7/28/2023
+260,Can someone explain the concept of statistical regression?,2,false,false,4,12/1/2023
+261,Looking for recommendations on elective courses for next semester.,5,false,true,2,12/12/2023
+262,Is anyone available for a group project on Monday?,1,false,true,3,9/3/2023
+263,Seeking help with coding assignments. Any volunteers?,2,true,true,1,2/10/2024
+264,Can anyone help me with the assignment in Advanced Calculus?,3,true,true,3,9/28/2023
+265,Need advice on balancing work and study. Any suggestions?,2,false,false,2,2/6/2024
+266,Need advice on balancing work and study. Any suggestions?,5,false,true,4,6/16/2024
+267,Can someone explain the concept of statistical regression?,2,true,false,4,3/19/2023
+268,Forming a study group for Organic Chemistry—anyone interested?,3,false,true,2,3/10/2024
+269,Any tips on staying motivated during the exam season?,1,false,false,5,1/21/2024
+270,Need advice on balancing work and study. Any suggestions?,4,true,true,4,6/16/2023
+271,Does anyone have notes for yesterday's History lecture?,5,false,true,4,1/10/2023
+272,Need advice on balancing work and study. Any suggestions?,1,true,true,3,5/25/2023
+273,Who’s interested in joining a debate club?,5,true,true,1,1/14/2023
+274,What’s the best coffee shop on campus for studying?,3,false,true,1,2/5/2024
+275,How do I join the student council?,2,false,true,4,8/22/2024
+276,What’s the best coffee shop on campus for studying?,5,true,false,2,8/15/2023
+277,Looking for study buddies for the upcoming exams!,3,false,false,5,5/4/2024
+278,What’s the best coffee shop on campus for studying?,2,false,true,2,12/29/2023
+279,What’s the best coffee shop on campus for studying?,3,true,false,5,8/6/2024
+280,Any tips on staying motivated during the exam season?,4,false,false,2,6/25/2024
+281,Need advice on balancing work and study. Any suggestions?,5,false,true,5,1/28/2024
+282,Need advice on balancing work and study. Any suggestions?,3,false,false,1,9/26/2023
+283,What’s the easiest way to memorize historical dates?,3,true,true,1,4/26/2024
+284,Who else is excited about the upcoming university festival?,4,false,false,4,7/3/2023
+285,Seeking help with coding assignments. Any volunteers?,4,true,false,4,6/29/2023
+286,Looking for someone to review my essay on environmental policies.,2,true,false,4,3/28/2024
+287,What’s the best way to prepare for the final exams?,1,true,true,3,7/6/2023
+288,Does anyone know when the library is open during the holidays?,2,true,true,4,2/8/2024
+289,Can anyone help me with the assignment in Advanced Calculus?,5,true,true,2,12/12/2023
+290,What’s the best way to prepare for the final exams?,2,false,true,3,8/8/2023
+291,Does anyone know when the library is open during the holidays?,3,false,true,4,3/8/2024
+292,Looking for recommendations on elective courses for next semester.,5,false,false,4,8/3/2024
+293,Any tips on staying motivated during the exam season?,4,false,false,1,3/1/2024
+294,Seeking help with coding assignments. Any volunteers?,4,true,false,1,4/12/2023
+295,Any tips on staying motivated during the exam season?,2,true,true,2,5/9/2023
+296,What’s the best coffee shop on campus for studying?,4,true,true,2,5/13/2024
+297,Looking for recommendations on elective courses for next semester.,1,false,false,5,11/16/2023
+298,Looking for someone to review my essay on environmental policies.,4,false,false,1,8/13/2024
+299,Does anyone know when the library is open during the holidays?,1,false,false,2,3/5/2023
+300,Forming a study group for Organic Chemistry—anyone interested?,1,true,true,4,7/27/2024
+301,Looking for recommendations on elective courses for next semester.,5,false,false,4,10/23/2023
+302,Forming a study group for Organic Chemistry—anyone interested?,3,true,true,5,5/20/2023
+303,Looking for study buddies for the upcoming exams!,4,true,false,3,12/16/2023
+304,Can someone explain the concept of statistical regression?,2,true,true,3,7/22/2024
+305,Does anyone have notes for yesterday's History lecture?,2,false,false,1,7/8/2024
+306,Looking for someone to review my essay on environmental policies.,4,true,false,1,5/30/2024
+307,I’m struggling with my thesis. Any tips?,2,true,true,1,7/26/2023
+308,What’s the best coffee shop on campus for studying?,5,false,false,3,4/20/2024
+309,Seeking help with coding assignments. Any volunteers?,3,false,true,1,2/12/2023
+310,Is anyone available for a group project on Monday?,4,false,true,4,8/4/2023
+311,Any tips on staying motivated during the exam season?,4,false,true,4,10/29/2023
+312,Can anyone help me with the assignment in Advanced Calculus?,2,true,false,1,6/22/2024
+313,Can anyone help me with the assignment in Advanced Calculus?,4,true,false,5,11/11/2023
+314,Can anyone help me with the assignment in Advanced Calculus?,1,false,true,3,7/28/2023
+315,I’m struggling with my thesis. Any tips?,5,true,true,1,5/29/2024
+316,Can someone explain the concept of statistical regression?,2,false,false,3,6/22/2023
+317,Can anyone help me with the assignment in Advanced Calculus?,1,false,false,3,10/22/2023
+318,Can someone share their experience with online classes this semester?,3,false,true,1,8/21/2023
+319,I’m struggling with my thesis. Any tips?,3,true,true,1,7/12/2023
+320,What’s the best coffee shop on campus for studying?,2,true,true,2,12/4/2023
+321,Need advice on balancing work and study. Any suggestions?,5,false,false,3,1/24/2024
+322,What’s the best way to prepare for the final exams?,5,true,true,4,5/19/2023
+323,Seeking help with coding assignments. Any volunteers?,5,false,false,4,5/28/2024
+324,Can anyone help me with the assignment in Advanced Calculus?,2,true,false,3,2/16/2023
+325,What’s the easiest way to memorize historical dates?,5,true,false,1,1/5/2023
+326,How do I join the student council?,4,true,true,3,4/24/2024
+327,Who else is excited about the upcoming university festival?,4,true,true,4,2/18/2024
+328,Looking for study buddies for the upcoming exams!,4,false,false,3,6/5/2024
+329,Who else is excited about the upcoming university festival?,4,false,true,1,2/10/2023
+330,Who else is excited about the upcoming university festival?,4,false,false,2,4/11/2024
+331,Looking for recommendations on elective courses for next semester.,1,true,true,2,10/13/2023
+332,Any tips on staying motivated during the exam season?,2,false,false,2,3/15/2023
+333,Is anyone available for a group project on Monday?,3,true,false,4,6/8/2023
+334,What’s the best way to prepare for the final exams?,2,false,false,5,8/17/2024
+335,Any tips on staying motivated during the exam season?,3,true,false,5,7/15/2023
+336,What’s the easiest way to memorize historical dates?,2,true,false,3,9/30/2023
+337,I’m struggling with my thesis. Any tips?,2,false,true,3,9/15/2023
+338,What’s the best coffee shop on campus for studying?,2,true,true,4,5/22/2024
+339,Any tips on staying motivated during the exam season?,1,true,true,5,4/23/2024
+340,Forming a study group for Organic Chemistry—anyone interested?,4,true,true,4,2/11/2023
+341,Forming a study group for Organic Chemistry—anyone interested?,5,false,true,5,3/15/2023
+342,What’s the best coffee shop on campus for studying?,3,true,true,4,3/19/2024
+343,Forming a study group for Organic Chemistry—anyone interested?,3,true,false,2,12/16/2023
+344,What’s the easiest way to memorize historical dates?,2,true,false,3,4/10/2024
+345,Looking for someone to review my essay on environmental policies.,5,false,true,1,5/15/2024
+346,Any tips on staying motivated during the exam season?,1,true,false,4,6/28/2023
+347,Looking for someone to review my essay on environmental policies.,5,true,false,2,1/8/2024
+348,Can anyone help me with the assignment in Advanced Calculus?,1,false,false,3,5/31/2024
+349,Can anyone help me with the assignment in Advanced Calculus?,4,false,false,2,2/4/2023
+350,Does anyone know when the library is open during the holidays?,5,false,false,2,3/17/2023
+351,Who else is excited about the upcoming university festival?,3,true,false,5,5/17/2024
+352,Can someone explain the concept of statistical regression?,3,true,false,5,6/21/2024
+353,Forming a study group for Organic Chemistry—anyone interested?,4,false,true,2,4/21/2024
+354,Can someone share their experience with online classes this semester?,3,true,true,2,11/4/2023
+355,What’s the best way to prepare for the final exams?,4,true,true,2,8/14/2024
+356,What’s the best way to prepare for the final exams?,5,false,true,3,6/27/2023
+357,Can someone share their experience with online classes this semester?,3,false,true,4,1/30/2024
+358,Does anyone have notes for yesterday's History lecture?,4,true,true,2,6/19/2024
+359,What’s the best coffee shop on campus for studying?,1,false,true,2,5/8/2024
+360,Who’s interested in joining a debate club?,5,true,true,2,4/15/2023
+361,Looking for someone to review my essay on environmental policies.,3,true,false,2,8/2/2023
+362,Any tips on staying motivated during the exam season?,5,false,false,5,7/1/2023
+363,Need advice on balancing work and study. Any suggestions?,4,true,true,4,7/25/2024
+364,Does anyone have notes for yesterday's History lecture?,2,false,true,2,4/12/2023
+365,Can someone share their experience with online classes this semester?,2,true,false,1,3/2/2023
+366,Can someone share their experience with online classes this semester?,4,true,false,4,5/4/2023
+367,Is anyone available for a group project on Monday?,5,false,false,5,1/2/2024
+368,What’s the best way to prepare for the final exams?,4,false,true,3,1/21/2023
+369,Who else is excited about the upcoming university festival?,5,true,false,2,5/21/2024
+370,Any tips on staying motivated during the exam season?,1,true,false,1,5/17/2024
+371,What’s the best coffee shop on campus for studying?,5,false,false,3,2/18/2024
+372,Does anyone know when the library is open during the holidays?,2,true,true,4,3/22/2023
+373,Forming a study group for Organic Chemistry—anyone interested?,2,true,true,2,6/12/2024
+374,Does anyone have notes for yesterday's History lecture?,2,true,false,2,1/25/2024
+375,Can someone share their experience with online classes this semester?,3,false,true,2,6/29/2023
+376,I’m struggling with my thesis. Any tips?,2,false,true,2,7/26/2024
+377,Who else is excited about the upcoming university festival?,3,false,true,3,7/5/2023
+378,Seeking help with coding assignments. Any volunteers?,4,true,true,2,5/25/2024
+379,Does anyone have notes for yesterday's History lecture?,3,false,false,3,10/19/2023
+380,I’m struggling with my thesis. Any tips?,1,true,false,4,11/7/2023
+381,Does anyone have notes for yesterday's History lecture?,5,true,false,5,1/20/2024
+382,Can anyone help me with the assignment in Advanced Calculus?,1,false,false,5,7/15/2024
+383,Looking for study buddies for the upcoming exams!,3,true,true,1,5/5/2024
+384,Looking for study buddies for the upcoming exams!,3,true,false,4,9/2/2023
+385,Need advice on balancing work and study. Any suggestions?,5,true,false,2,5/27/2023
+386,Can someone share their experience with online classes this semester?,1,true,true,4,1/8/2024
+387,Seeking help with coding assignments. Any volunteers?,1,false,true,2,11/28/2023
+388,Looking for recommendations on elective courses for next semester.,4,false,false,3,7/27/2023
+389,Seeking help with coding assignments. Any volunteers?,3,true,false,2,4/1/2023
+390,Looking for recommendations on elective courses for next semester.,1,false,true,5,8/1/2024
+391,Looking for someone to review my essay on environmental policies.,4,true,false,2,2/1/2024
+392,Need advice on balancing work and study. Any suggestions?,4,true,false,5,3/19/2023
+393,I’m struggling with my thesis. Any tips?,3,true,true,5,5/18/2023
+394,Looking for recommendations on elective courses for next semester.,2,true,true,5,7/5/2024
+395,What’s the best coffee shop on campus for studying?,5,true,true,2,4/20/2024
+396,Who’s interested in joining a debate club?,4,true,true,5,5/4/2024
+397,Looking for study buddies for the upcoming exams!,1,true,true,5,2/16/2023
+398,What’s the best coffee shop on campus for studying?,3,true,false,5,8/4/2024
+399,How do I join the student council?,5,true,false,5,7/4/2024
+400,Can someone explain the concept of statistical regression?,2,false,false,2,9/12/2023
+401,Who’s interested in joining a debate club?,4,true,true,4,5/15/2023
+402,What’s the best coffee shop on campus for studying?,3,true,true,4,11/3/2023
+403,Any tips on staying motivated during the exam season?,2,true,true,2,6/23/2023
+404,Looking for recommendations on elective courses for next semester.,1,true,true,1,7/25/2023
+405,What’s the best way to prepare for the final exams?,4,true,false,3,7/1/2024
+406,I’m struggling with my thesis. Any tips?,5,false,true,5,2/11/2024
+407,Can someone explain the concept of statistical regression?,2,true,true,2,1/19/2024
+408,Is anyone available for a group project on Monday?,5,true,true,4,3/15/2023
+409,Can anyone help me with the assignment in Advanced Calculus?,2,true,false,4,8/13/2023
+410,Is anyone available for a group project on Monday?,2,false,true,4,8/7/2024
+411,Who’s interested in joining a debate club?,4,false,true,2,8/27/2023
+412,Looking for recommendations on elective courses for next semester.,3,true,true,4,1/9/2024
+413,Can someone share their experience with online classes this semester?,4,true,true,5,6/11/2023
+414,Can anyone help me with the assignment in Advanced Calculus?,3,true,false,2,8/27/2023
+415,Looking for someone to review my essay on environmental policies.,3,false,true,3,10/6/2023
+416,Seeking help with coding assignments. Any volunteers?,5,false,true,5,1/10/2023
+417,Can anyone help me with the assignment in Advanced Calculus?,2,false,false,5,5/8/2023
+418,Can anyone help me with the assignment in Advanced Calculus?,5,false,false,3,12/22/2023
+419,Does anyone have notes for yesterday's History lecture?,5,false,true,4,1/20/2024
+420,Does anyone have notes for yesterday's History lecture?,5,false,false,3,8/3/2023
+421,Looking for recommendations on elective courses for next semester.,5,false,true,3,3/19/2024
+422,Does anyone know when the library is open during the holidays?,3,true,true,5,8/20/2023
+423,Does anyone know when the library is open during the holidays?,2,true,false,2,4/20/2023
+424,Looking for recommendations on elective courses for next semester.,4,false,true,3,9/8/2023
+425,Need advice on balancing work and study. Any suggestions?,4,true,true,4,5/2/2023
+426,How do I join the student council?,2,true,true,5,6/11/2023
+427,Seeking help with coding assignments. Any volunteers?,4,false,false,1,5/25/2024
+428,Is anyone available for a group project on Monday?,1,false,false,2,5/31/2024
+429,Can someone share their experience with online classes this semester?,4,false,true,1,2/19/2024
+430,Seeking help with coding assignments. Any volunteers?,3,true,false,4,9/19/2023
+431,Who else is excited about the upcoming university festival?,5,true,false,2,1/17/2024
+432,Forming a study group for Organic Chemistry—anyone interested?,5,false,true,4,7/15/2024
+433,Can someone share their experience with online classes this semester?,2,false,true,5,6/21/2023
+434,Any tips on staying motivated during the exam season?,5,false,true,1,8/20/2024
+435,What’s the easiest way to memorize historical dates?,3,false,false,1,4/10/2024
+436,Looking for recommendations on elective courses for next semester.,3,true,false,3,2/5/2024
+437,Can anyone help me with the assignment in Advanced Calculus?,3,true,false,3,12/10/2023
+438,What’s the easiest way to memorize historical dates?,4,false,true,4,8/14/2023
+439,Any tips on staying motivated during the exam season?,3,true,false,1,3/3/2024
+440,Any tips on staying motivated during the exam season?,1,true,false,4,11/19/2023
+441,What’s the easiest way to memorize historical dates?,3,false,true,2,4/11/2024
+442,Looking for recommendations on elective courses for next semester.,1,true,true,4,5/26/2024
+443,What’s the easiest way to memorize historical dates?,5,true,true,2,4/13/2024
+444,Need advice on balancing work and study. Any suggestions?,1,false,false,2,11/26/2023
+445,Can anyone help me with the assignment in Advanced Calculus?,2,true,true,3,6/19/2023
+446,Forming a study group for Organic Chemistry—anyone interested?,3,true,true,2,10/30/2023
+447,Can someone explain the concept of statistical regression?,3,false,true,3,6/4/2024
+448,I’m struggling with my thesis. Any tips?,3,false,true,5,7/21/2024
+449,Seeking help with coding assignments. Any volunteers?,4,true,false,4,12/8/2023
+450,Does anyone have notes for yesterday's History lecture?,5,false,false,2,9/12/2023
+451,Who’s interested in joining a debate club?,2,true,false,5,4/27/2023
+452,How do I join the student council?,3,true,true,3,6/19/2023
+453,Is anyone available for a group project on Monday?,5,false,false,5,12/1/2023
+454,Looking for someone to review my essay on environmental policies.,3,false,true,4,6/4/2023
+455,Does anyone know when the library is open during the holidays?,3,false,true,4,6/2/2024
+456,What’s the easiest way to memorize historical dates?,4,false,false,5,11/15/2023
+457,I’m struggling with my thesis. Any tips?,4,true,false,4,1/9/2023
+458,What’s the easiest way to memorize historical dates?,2,true,true,5,5/21/2023
+459,Is anyone available for a group project on Monday?,3,false,false,1,7/11/2024
+460,Does anyone know when the library is open during the holidays?,1,true,false,2,5/18/2023
+461,Who’s interested in joining a debate club?,5,true,false,3,11/20/2023
+462,Looking for someone to review my essay on environmental policies.,3,false,true,4,5/24/2023
+463,Is anyone available for a group project on Monday?,3,false,false,2,4/19/2024
+464,Who’s interested in joining a debate club?,1,false,true,5,2/1/2023
+465,Does anyone know when the library is open during the holidays?,2,false,true,5,1/21/2023
+466,Does anyone have notes for yesterday's History lecture?,3,false,false,3,7/26/2023
+467,Any tips on staying motivated during the exam season?,4,false,true,3,1/27/2023
+468,What’s the best coffee shop on campus for studying?,4,false,true,2,6/30/2023
+469,How do I join the student council?,4,false,false,5,8/5/2024
+470,Can someone explain the concept of statistical regression?,3,false,false,2,11/26/2023
+471,I’m struggling with my thesis. Any tips?,3,true,true,4,6/3/2023
+472,What’s the easiest way to memorize historical dates?,1,true,false,2,8/9/2024
+473,Does anyone have notes for yesterday's History lecture?,2,false,true,3,1/20/2024
+474,Looking for study buddies for the upcoming exams!,2,true,true,4,1/28/2023
+475,I’m struggling with my thesis. Any tips?,5,true,false,1,2/10/2024
+476,Looking for study buddies for the upcoming exams!,2,true,false,2,8/16/2024
+477,What’s the best coffee shop on campus for studying?,3,false,true,3,7/13/2024
+478,Forming a study group for Organic Chemistry—anyone interested?,4,true,false,5,5/19/2024
+479,Looking for study buddies for the upcoming exams!,1,true,true,3,7/16/2023
+480,Is anyone available for a group project on Monday?,5,true,true,4,6/14/2023
+481,What’s the best coffee shop on campus for studying?,1,false,false,4,4/28/2024
+482,What’s the best way to prepare for the final exams?,2,true,true,5,10/20/2023
+483,Can someone share their experience with online classes this semester?,5,false,false,5,1/27/2023
+484,Forming a study group for Organic Chemistry—anyone interested?,4,true,true,2,7/12/2024
+485,What’s the best way to prepare for the final exams?,4,true,false,3,10/27/2023
+486,Can someone share their experience with online classes this semester?,5,false,false,2,3/22/2024
+487,What’s the easiest way to memorize historical dates?,1,true,false,1,7/8/2023
+488,Does anyone know when the library is open during the holidays?,5,true,true,4,3/1/2024
+489,What’s the best coffee shop on campus for studying?,2,false,true,4,4/4/2024
+490,Is anyone available for a group project on Monday?,3,true,false,5,4/6/2024
+491,Can someone share their experience with online classes this semester?,1,true,true,4,8/19/2023
+492,Need advice on balancing work and study. Any suggestions?,1,false,false,5,2/9/2023
+493,What’s the easiest way to memorize historical dates?,5,true,false,5,4/30/2023
+494,Forming a study group for Organic Chemistry—anyone interested?,2,true,true,4,3/10/2023
+495,Looking for someone to review my essay on environmental policies.,4,true,true,4,1/16/2024
+496,Who else is excited about the upcoming university festival?,1,false,true,3,2/14/2024
+497,Looking for someone to review my essay on environmental policies.,1,true,false,5,5/27/2024
+498,What’s the best way to prepare for the final exams?,1,false,true,5,4/1/2024
+499,What’s the easiest way to memorize historical dates?,2,true,false,5,11/30/2023
+500,Can someone explain the concept of statistical regression?,5,false,true,1,1/13/2024
+501,Can someone explain the concept of statistical regression?,1,true,true,2,7/31/2023
+502,How do I join the student council?,2,false,false,3,6/24/2024
+503,Need advice on balancing work and study. Any suggestions?,1,false,true,2,11/3/2023
+504,I’m struggling with my thesis. Any tips?,5,false,true,2,5/24/2024
+505,Seeking help with coding assignments. Any volunteers?,4,false,true,3,1/25/2024
+506,Looking for study buddies for the upcoming exams!,4,true,true,4,5/8/2023
+507,Who’s interested in joining a debate club?,3,true,true,1,6/21/2024
+508,Who else is excited about the upcoming university festival?,3,true,true,5,11/6/2023
+509,What’s the best coffee shop on campus for studying?,4,true,true,2,12/2/2023
+510,What’s the best way to prepare for the final exams?,5,true,false,4,7/15/2023
+511,Can someone share their experience with online classes this semester?,4,true,false,5,9/27/2023
+512,Does anyone have notes for yesterday's History lecture?,5,false,true,1,3/22/2023
+513,Looking for someone to review my essay on environmental policies.,4,true,false,1,2/24/2024
+514,Any tips on staying motivated during the exam season?,5,false,true,1,2/17/2024
+515,Does anyone have notes for yesterday's History lecture?,3,true,true,3,8/26/2023
+516,Is anyone available for a group project on Monday?,1,true,false,3,11/19/2023
+517,Can someone share their experience with online classes this semester?,5,false,false,5,4/24/2023
+518,Looking for someone to review my essay on environmental policies.,3,true,true,3,6/22/2024
+519,Can anyone help me with the assignment in Advanced Calculus?,5,true,true,4,9/14/2023
+520,Looking for someone to review my essay on environmental policies.,4,true,false,2,5/15/2023
+521,Any tips on staying motivated during the exam season?,3,true,false,1,6/17/2023
+522,What’s the best way to prepare for the final exams?,4,false,true,5,9/4/2023
+523,Who else is excited about the upcoming university festival?,2,false,false,3,2/12/2023
+524,I’m struggling with my thesis. Any tips?,1,false,false,4,4/27/2024
+525,Can anyone help me with the assignment in Advanced Calculus?,2,false,false,3,1/14/2023
+526,Who’s interested in joining a debate club?,4,true,false,4,8/18/2023
+527,Who else is excited about the upcoming university festival?,2,true,true,2,5/21/2024
+528,Need advice on balancing work and study. Any suggestions?,3,false,true,3,8/8/2024
+529,Seeking help with coding assignments. Any volunteers?,4,false,true,5,3/4/2024
+530,Seeking help with coding assignments. Any volunteers?,1,true,false,5,9/24/2023
+531,How do I join the student council?,5,true,true,3,3/14/2024
+532,What’s the best coffee shop on campus for studying?,1,true,false,2,2/6/2024
+533,Looking for someone to review my essay on environmental policies.,2,true,false,4,6/28/2024
+534,How do I join the student council?,4,false,true,1,1/27/2023
+535,Who’s interested in joining a debate club?,4,true,false,5,10/22/2023
+536,Any tips on staying motivated during the exam season?,5,false,true,5,11/25/2023
+537,Any tips on staying motivated during the exam season?,3,true,false,1,1/31/2023
+538,Need advice on balancing work and study. Any suggestions?,5,false,true,5,9/23/2023
+539,What’s the best coffee shop on campus for studying?,3,false,false,5,10/20/2023
+540,What’s the best coffee shop on campus for studying?,2,true,true,3,8/28/2023
+541,Looking for someone to review my essay on environmental policies.,5,true,true,3,5/28/2023
+542,Is anyone available for a group project on Monday?,1,true,false,1,7/10/2024
+543,Who’s interested in joining a debate club?,5,false,true,4,5/24/2024
+544,Can someone share their experience with online classes this semester?,4,false,true,1,3/24/2023
+545,Seeking help with coding assignments. Any volunteers?,4,true,true,2,5/6/2024
+546,How do I join the student council?,2,true,true,1,5/24/2024
+547,What’s the easiest way to memorize historical dates?,4,false,true,1,12/21/2023
+548,Can someone explain the concept of statistical regression?,5,true,false,4,3/4/2023
+549,Looking for recommendations on elective courses for next semester.,1,true,true,2,6/6/2023
+550,Does anyone have notes for yesterday's History lecture?,3,false,true,5,4/16/2024
+551,Does anyone know when the library is open during the holidays?,1,true,false,3,6/4/2023
+552,Who’s interested in joining a debate club?,4,true,false,2,12/20/2023
+553,Seeking help with coding assignments. Any volunteers?,1,true,true,3,5/12/2024
+554,Can someone explain the concept of statistical regression?,3,false,false,3,6/7/2024
+555,Looking for someone to review my essay on environmental policies.,3,false,false,1,1/22/2023
+556,Looking for recommendations on elective courses for next semester.,2,true,false,4,5/23/2023
+557,Who else is excited about the upcoming university festival?,3,true,false,1,11/4/2023
+558,How do I join the student council?,4,true,false,5,9/4/2023
+559,Is anyone available for a group project on Monday?,1,true,true,5,9/18/2023
+560,Need advice on balancing work and study. Any suggestions?,5,false,true,4,10/30/2023
+561,Looking for recommendations on elective courses for next semester.,4,false,false,1,2/2/2024
+562,Does anyone know when the library is open during the holidays?,2,true,false,1,5/10/2024
+563,Forming a study group for Organic Chemistry—anyone interested?,3,true,false,4,2/7/2024
+564,Who else is excited about the upcoming university festival?,3,false,true,3,12/20/2023
+565,Who’s interested in joining a debate club?,1,false,false,1,10/30/2023
+566,What’s the best coffee shop on campus for studying?,1,false,false,3,3/29/2024
+567,Does anyone have notes for yesterday's History lecture?,1,true,false,3,10/4/2023
+568,Forming a study group for Organic Chemistry—anyone interested?,2,false,true,4,3/26/2024
+569,What’s the easiest way to memorize historical dates?,2,false,false,5,1/1/2024
+570,I’m struggling with my thesis. Any tips?,3,false,true,3,6/25/2024
+571,Looking for recommendations on elective courses for next semester.,5,true,false,4,7/17/2024
+572,Looking for recommendations on elective courses for next semester.,1,true,true,5,5/17/2024
+573,Does anyone know when the library is open during the holidays?,1,false,true,2,3/3/2024
+574,How do I join the student council?,2,false,false,2,2/21/2024
+575,What’s the best coffee shop on campus for studying?,3,false,true,4,6/19/2024
+576,Can someone share their experience with online classes this semester?,2,true,false,3,1/5/2023
+577,Can someone share their experience with online classes this semester?,1,true,false,3,12/13/2023
+578,I’m struggling with my thesis. Any tips?,4,true,false,5,4/28/2024
+579,Does anyone know when the library is open during the holidays?,1,false,false,5,3/19/2024
+580,Can anyone help me with the assignment in Advanced Calculus?,3,false,false,3,4/8/2024
+581,Looking for study buddies for the upcoming exams!,4,true,false,4,1/24/2024
+582,Is anyone available for a group project on Monday?,5,true,true,1,4/6/2024
+583,Who else is excited about the upcoming university festival?,5,false,false,5,11/26/2023
+584,Looking for someone to review my essay on environmental policies.,1,true,true,5,3/4/2024
+585,Does anyone know when the library is open during the holidays?,5,false,true,3,9/4/2023
+586,Forming a study group for Organic Chemistry—anyone interested?,2,true,false,2,1/12/2024
+587,Looking for recommendations on elective courses for next semester.,1,true,false,1,1/27/2024
+588,Any tips on staying motivated during the exam season?,5,true,false,5,7/23/2023
+589,Does anyone know when the library is open during the holidays?,3,true,true,1,9/18/2023
+590,Who else is excited about the upcoming university festival?,4,true,true,3,8/10/2024
+591,Any tips on staying motivated during the exam season?,2,true,false,4,1/28/2024
+592,Is anyone available for a group project on Monday?,4,true,true,2,6/10/2024
+593,Does anyone have notes for yesterday's History lecture?,2,true,false,4,5/5/2023
+594,Forming a study group for Organic Chemistry—anyone interested?,4,true,false,4,4/21/2024
+595,Who else is excited about the upcoming university festival?,3,false,false,2,8/7/2023
+596,Looking for someone to review my essay on environmental policies.,5,true,false,3,2/7/2023
+597,What’s the easiest way to memorize historical dates?,1,false,false,5,5/21/2023
+598,Any tips on staying motivated during the exam season?,3,true,true,3,2/18/2024
+599,Forming a study group for Organic Chemistry—anyone interested?,5,true,true,2,4/29/2024
+600,Any tips on staying motivated during the exam season?,4,false,true,1,8/20/2024
+601,Looking for someone to review my essay on environmental policies.,2,true,true,1,4/24/2024
+602,Can someone explain the concept of statistical regression?,4,true,true,1,7/16/2024
+603,Does anyone have notes for yesterday's History lecture?,1,true,true,4,7/28/2024
+604,Any tips on staying motivated during the exam season?,1,true,false,4,4/21/2024
+605,Looking for someone to review my essay on environmental policies.,4,true,true,2,9/17/2023
+606,Can someone share their experience with online classes this semester?,1,false,true,1,2/12/2024
+607,Any tips on staying motivated during the exam season?,3,false,true,5,9/22/2023
+608,Looking for someone to review my essay on environmental policies.,1,true,false,3,1/21/2024
+609,Who’s interested in joining a debate club?,4,false,false,4,5/25/2023
+610,Looking for study buddies for the upcoming exams!,1,true,false,5,4/24/2024
+611,Can anyone help me with the assignment in Advanced Calculus?,1,true,false,2,8/16/2023
+612,What’s the best coffee shop on campus for studying?,2,true,true,5,4/9/2023
+613,Who’s interested in joining a debate club?,4,true,true,1,7/2/2024
+614,Can someone share their experience with online classes this semester?,1,true,true,5,6/1/2023
+615,Looking for study buddies for the upcoming exams!,1,false,false,5,10/25/2023
+616,Who’s interested in joining a debate club?,2,true,true,4,3/22/2024
+617,Can someone explain the concept of statistical regression?,2,false,false,2,11/11/2023
+618,Looking for study buddies for the upcoming exams!,1,true,true,1,7/24/2024
+619,What’s the best way to prepare for the final exams?,5,false,true,4,5/9/2024
+620,What’s the best way to prepare for the final exams?,2,true,true,5,1/3/2024
+621,How do I join the student council?,3,false,true,2,6/30/2023
+622,Need advice on balancing work and study. Any suggestions?,2,true,false,4,6/2/2024
+623,Can anyone help me with the assignment in Advanced Calculus?,2,false,false,5,8/9/2024
+624,Can anyone help me with the assignment in Advanced Calculus?,3,true,false,3,1/11/2024
+625,Can someone share their experience with online classes this semester?,4,true,true,5,7/20/2023
+626,Can anyone help me with the assignment in Advanced Calculus?,4,true,true,4,2/12/2023
+627,Who else is excited about the upcoming university festival?,3,true,true,5,2/27/2023
+628,Who’s interested in joining a debate club?,1,false,true,2,6/26/2023
+629,Looking for recommendations on elective courses for next semester.,5,false,true,3,7/13/2023
+630,What’s the easiest way to memorize historical dates?,5,false,false,2,7/2/2024
+631,Looking for someone to review my essay on environmental policies.,4,false,true,3,9/26/2023
+632,Is anyone available for a group project on Monday?,5,true,false,1,8/13/2023
+633,Can anyone help me with the assignment in Advanced Calculus?,2,true,true,4,1/27/2024
+634,What’s the best way to prepare for the final exams?,1,true,false,5,6/29/2023
+635,What’s the easiest way to memorize historical dates?,1,true,true,5,2/14/2023
+636,Looking for someone to review my essay on environmental policies.,3,false,true,1,7/12/2023
+637,I’m struggling with my thesis. Any tips?,2,true,true,3,7/8/2023
+638,Who’s interested in joining a debate club?,5,true,false,2,9/23/2023
+639,Can someone explain the concept of statistical regression?,5,false,false,3,9/26/2023
+640,Who’s interested in joining a debate club?,4,true,true,2,7/18/2024
+641,Can someone share their experience with online classes this semester?,1,true,true,1,7/17/2023
+642,What’s the best coffee shop on campus for studying?,2,false,true,2,3/4/2023
+643,Can someone explain the concept of statistical regression?,5,true,true,1,7/7/2023
+644,How do I join the student council?,3,false,false,1,4/10/2023
+645,Can someone explain the concept of statistical regression?,1,false,false,3,8/23/2024
+646,Who’s interested in joining a debate club?,2,false,false,4,9/3/2023
+647,Can someone share their experience with online classes this semester?,2,false,false,5,10/7/2023
+648,Looking for someone to review my essay on environmental policies.,5,false,true,3,7/9/2024
+649,Can anyone help me with the assignment in Advanced Calculus?,4,false,true,4,9/27/2023
+650,Looking for someone to review my essay on environmental policies.,5,true,true,3,3/6/2023
+651,Does anyone know when the library is open during the holidays?,4,true,true,4,1/28/2024
+652,What’s the easiest way to memorize historical dates?,5,true,false,5,3/28/2024
+653,Who else is excited about the upcoming university festival?,3,true,true,5,12/7/2023
+654,Who else is excited about the upcoming university festival?,5,false,true,4,1/2/2023
+655,What’s the easiest way to memorize historical dates?,5,false,false,3,5/2/2023
+656,Looking for recommendations on elective courses for next semester.,3,true,true,5,7/5/2023
+657,I’m struggling with my thesis. Any tips?,3,true,false,1,4/7/2024
+658,Can anyone help me with the assignment in Advanced Calculus?,1,true,false,2,5/23/2024
+659,Looking for someone to review my essay on environmental policies.,1,true,false,2,4/25/2023
+660,Any tips on staying motivated during the exam season?,1,false,true,2,11/30/2023
+661,Seeking help with coding assignments. Any volunteers?,3,false,true,5,9/19/2023
+662,How do I join the student council?,5,true,false,1,6/6/2023
+663,Does anyone know when the library is open during the holidays?,1,true,false,2,7/17/2023
+664,What’s the best coffee shop on campus for studying?,3,true,true,2,9/19/2023
+665,Does anyone know when the library is open during the holidays?,4,false,false,1,3/1/2024
+666,How do I join the student council?,1,true,true,2,8/2/2023
+667,Forming a study group for Organic Chemistry—anyone interested?,2,false,false,2,3/19/2024
+668,Does anyone know when the library is open during the holidays?,3,false,true,3,3/23/2024
+669,Can someone explain the concept of statistical regression?,3,true,false,5,8/8/2023
+670,Any tips on staying motivated during the exam season?,1,true,true,1,3/1/2024
+671,What’s the best way to prepare for the final exams?,3,true,true,2,4/4/2023
+672,Looking for study buddies for the upcoming exams!,2,false,true,1,2/11/2024
+673,Is anyone available for a group project on Monday?,3,true,true,1,3/25/2024
+674,Who else is excited about the upcoming university festival?,5,false,true,1,7/8/2023
+675,What’s the best way to prepare for the final exams?,4,false,true,2,8/9/2023
+676,What’s the best way to prepare for the final exams?,3,false,false,2,7/8/2023
+677,I’m struggling with my thesis. Any tips?,5,true,false,1,8/16/2023
+678,Can someone share their experience with online classes this semester?,3,true,false,5,11/3/2023
+679,Can someone explain the concept of statistical regression?,2,false,false,3,6/2/2024
+680,Who’s interested in joining a debate club?,1,true,true,2,4/9/2024
+681,Can anyone help me with the assignment in Advanced Calculus?,3,false,true,4,10/3/2023
+682,Can anyone help me with the assignment in Advanced Calculus?,4,true,false,4,10/27/2023
+683,How do I join the student council?,2,true,false,1,8/9/2024
+684,Does anyone know when the library is open during the holidays?,3,true,true,3,7/17/2023
+685,Need advice on balancing work and study. Any suggestions?,5,false,false,4,5/7/2023
+686,Who else is excited about the upcoming university festival?,5,false,true,3,2/22/2023
+687,Is anyone available for a group project on Monday?,5,false,false,2,9/23/2023
+688,Can anyone help me with the assignment in Advanced Calculus?,3,false,false,3,5/16/2023
+689,What’s the best way to prepare for the final exams?,4,false,false,3,2/28/2023
+690,Looking for study buddies for the upcoming exams!,5,true,true,1,6/11/2024
+691,What’s the best way to prepare for the final exams?,2,true,false,1,3/10/2023
+692,Need advice on balancing work and study. Any suggestions?,4,false,true,5,6/13/2023
+693,Any tips on staying motivated during the exam season?,1,true,false,2,8/18/2024
+694,Who’s interested in joining a debate club?,3,true,false,4,8/16/2024
+695,Need advice on balancing work and study. Any suggestions?,2,false,true,1,9/16/2023
+696,Any tips on staying motivated during the exam season?,2,true,false,4,3/17/2024
+697,Can someone share their experience with online classes this semester?,3,true,true,5,6/22/2024
+698,Any tips on staying motivated during the exam season?,4,false,false,3,8/13/2023
+699,Seeking help with coding assignments. Any volunteers?,4,true,true,5,8/24/2024
+700,Can anyone help me with the assignment in Advanced Calculus?,2,false,true,4,3/20/2024
+701,Any tips on staying motivated during the exam season?,2,false,false,4,1/29/2023
+702,Who’s interested in joining a debate club?,3,true,true,4,7/15/2023
+703,Who else is excited about the upcoming university festival?,2,false,false,5,1/3/2024
+704,Is anyone available for a group project on Monday?,3,false,false,4,12/15/2023
+705,How do I join the student council?,4,false,true,4,5/4/2024
+706,Can someone explain the concept of statistical regression?,4,false,false,5,8/17/2023
+707,Need advice on balancing work and study. Any suggestions?,5,true,false,4,4/17/2023
+708,I’m struggling with my thesis. Any tips?,5,true,false,4,6/23/2024
+709,Can anyone help me with the assignment in Advanced Calculus?,2,true,true,3,11/14/2023
+710,Can anyone help me with the assignment in Advanced Calculus?,1,false,false,5,7/23/2023
+711,Who’s interested in joining a debate club?,1,true,true,3,8/23/2023
+712,I’m struggling with my thesis. Any tips?,5,true,true,3,3/29/2023
+713,Is anyone available for a group project on Monday?,2,false,true,5,11/29/2023
+714,Does anyone have notes for yesterday's History lecture?,4,true,false,5,1/10/2023
+715,How do I join the student council?,4,false,true,5,9/1/2023
+716,Can someone share their experience with online classes this semester?,4,false,false,2,7/21/2024
+717,I’m struggling with my thesis. Any tips?,3,false,false,3,4/10/2023
+718,Can anyone help me with the assignment in Advanced Calculus?,5,false,true,2,3/30/2024
+719,What’s the easiest way to memorize historical dates?,5,true,true,2,8/30/2023
+720,Does anyone know when the library is open during the holidays?,4,true,true,2,2/11/2023
+721,Looking for recommendations on elective courses for next semester.,4,true,true,4,3/28/2023
+722,I’m struggling with my thesis. Any tips?,1,false,true,5,3/26/2023
+723,Need advice on balancing work and study. Any suggestions?,2,true,true,4,10/15/2023
+724,Does anyone have notes for yesterday's History lecture?,1,false,true,3,3/20/2024
+725,Is anyone available for a group project on Monday?,2,true,true,5,4/19/2023
+726,Forming a study group for Organic Chemistry—anyone interested?,5,false,false,2,4/2/2023
+727,Looking for recommendations on elective courses for next semester.,5,true,true,3,4/2/2023
+728,What’s the best coffee shop on campus for studying?,5,true,true,3,5/17/2024
+729,Looking for study buddies for the upcoming exams!,2,false,true,3,7/19/2024
+730,Is anyone available for a group project on Monday?,1,true,true,4,4/10/2023
+731,Can someone share their experience with online classes this semester?,3,false,false,1,7/10/2024
+732,Who else is excited about the upcoming university festival?,4,false,true,3,2/3/2024
+733,Need advice on balancing work and study. Any suggestions?,4,false,true,5,3/9/2023
+734,Seeking help with coding assignments. Any volunteers?,5,false,false,3,3/11/2023
+735,Can someone explain the concept of statistical regression?,5,false,true,3,3/15/2024
+736,How do I join the student council?,1,false,false,2,9/3/2023
+737,Seeking help with coding assignments. Any volunteers?,4,false,false,1,7/11/2024
+738,Looking for study buddies for the upcoming exams!,3,false,false,2,2/14/2023
+739,Forming a study group for Organic Chemistry—anyone interested?,1,true,false,3,8/7/2024
+740,Looking for recommendations on elective courses for next semester.,2,true,false,3,4/6/2023
+741,What’s the best way to prepare for the final exams?,2,false,false,3,10/31/2023
+742,Forming a study group for Organic Chemistry—anyone interested?,3,false,false,4,10/17/2023
+743,Is anyone available for a group project on Monday?,2,true,false,4,9/29/2023
+744,What’s the best way to prepare for the final exams?,3,true,true,4,9/23/2023
+745,Can someone share their experience with online classes this semester?,5,true,true,4,12/5/2023
+746,Any tips on staying motivated during the exam season?,4,false,true,1,6/13/2023
+747,What’s the best way to prepare for the final exams?,2,true,true,5,6/4/2023
+748,Does anyone know when the library is open during the holidays?,3,false,false,5,4/7/2023
+749,Any tips on staying motivated during the exam season?,2,true,true,5,6/25/2023
+750,Looking for recommendations on elective courses for next semester.,4,false,true,4,10/18/2023
+751,What’s the easiest way to memorize historical dates?,2,true,false,4,6/13/2023
+752,Need advice on balancing work and study. Any suggestions?,5,true,true,2,1/25/2024
+753,Need advice on balancing work and study. Any suggestions?,5,true,false,2,6/20/2023
+754,Can someone share their experience with online classes this semester?,3,true,true,4,5/2/2024
+755,Forming a study group for Organic Chemistry—anyone interested?,5,true,true,2,12/14/2023
+756,What’s the best coffee shop on campus for studying?,4,true,true,5,9/30/2023
+757,What’s the best way to prepare for the final exams?,1,false,false,2,1/21/2023
+758,Looking for study buddies for the upcoming exams!,2,true,true,1,7/13/2023
+759,I’m struggling with my thesis. Any tips?,5,false,false,4,2/23/2024
+760,What’s the easiest way to memorize historical dates?,3,false,true,5,3/20/2023
+761,What’s the best coffee shop on campus for studying?,3,false,false,1,7/18/2024
+762,What’s the easiest way to memorize historical dates?,2,false,true,1,4/26/2023
+763,Can someone explain the concept of statistical regression?,3,true,true,4,9/19/2023
+764,Looking for someone to review my essay on environmental policies.,4,false,false,2,6/4/2023
+765,Who else is excited about the upcoming university festival?,1,true,true,4,6/8/2024
+766,Can someone share their experience with online classes this semester?,5,true,false,1,10/11/2023
+767,What’s the best way to prepare for the final exams?,5,false,false,3,8/22/2024
+768,Who’s interested in joining a debate club?,1,true,false,2,9/28/2023
+769,Does anyone have notes for yesterday's History lecture?,5,true,false,3,7/17/2024
+770,Looking for someone to review my essay on environmental policies.,4,true,false,3,6/2/2024
+771,Seeking help with coding assignments. Any volunteers?,2,true,true,2,12/2/2023
+772,Does anyone have notes for yesterday's History lecture?,2,true,false,1,1/16/2024
+773,What’s the best way to prepare for the final exams?,4,false,true,2,8/16/2023
+774,Who else is excited about the upcoming university festival?,5,false,true,3,12/7/2023
+775,Does anyone have notes for yesterday's History lecture?,4,true,true,4,6/23/2024
+776,Seeking help with coding assignments. Any volunteers?,5,false,false,3,5/3/2024
+777,Any tips on staying motivated during the exam season?,2,true,false,4,4/19/2024
+778,Looking for study buddies for the upcoming exams!,4,true,true,4,3/19/2024
+779,Does anyone have notes for yesterday's History lecture?,2,true,true,2,8/19/2024
+780,Is anyone available for a group project on Monday?,5,false,false,2,5/4/2024
+781,Can someone explain the concept of statistical regression?,3,true,false,3,3/6/2023
+782,How do I join the student council?,1,false,true,5,8/8/2023
+783,Does anyone know when the library is open during the holidays?,2,true,true,3,12/23/2023
+784,Does anyone have notes for yesterday's History lecture?,5,false,false,4,6/5/2023
+785,Is anyone available for a group project on Monday?,5,false,true,5,7/18/2023
+786,Does anyone know when the library is open during the holidays?,2,true,true,3,6/1/2023
+787,Looking for recommendations on elective courses for next semester.,3,true,false,5,5/13/2023
+788,How do I join the student council?,5,true,false,3,1/11/2024
+789,What’s the easiest way to memorize historical dates?,3,false,true,1,5/14/2023
+790,Seeking help with coding assignments. Any volunteers?,4,false,false,2,3/31/2024
+791,Looking for recommendations on elective courses for next semester.,1,false,false,4,12/31/2023
+792,How do I join the student council?,5,true,true,2,5/3/2023
+793,Need advice on balancing work and study. Any suggestions?,2,true,false,4,2/6/2024
+794,What’s the best way to prepare for the final exams?,5,true,true,3,8/19/2023
+795,Can someone share their experience with online classes this semester?,3,true,false,4,1/3/2023
+796,I’m struggling with my thesis. Any tips?,3,true,true,3,5/25/2023
+797,How do I join the student council?,4,false,false,4,1/5/2024
+798,What’s the best way to prepare for the final exams?,5,true,true,1,1/28/2023
+799,Looking for study buddies for the upcoming exams!,2,true,true,1,4/26/2024
+800,Need advice on balancing work and study. Any suggestions?,5,true,false,4,7/19/2024
+801,Can someone explain the concept of statistical regression?,2,false,false,2,8/4/2024
+802,Looking for study buddies for the upcoming exams!,1,true,false,2,7/28/2024
+803,Looking for recommendations on elective courses for next semester.,2,true,false,2,9/2/2023
+804,Looking for study buddies for the upcoming exams!,5,true,false,5,7/20/2024
+805,Can someone share their experience with online classes this semester?,5,true,true,1,5/11/2024
+806,Does anyone know when the library is open during the holidays?,5,true,true,5,1/1/2024
+807,Who’s interested in joining a debate club?,3,true,false,2,9/5/2023
+808,Is anyone available for a group project on Monday?,2,false,false,3,10/13/2023
+809,Seeking help with coding assignments. Any volunteers?,1,false,false,2,11/30/2023
+810,Looking for study buddies for the upcoming exams!,3,true,false,2,5/19/2024
+811,Can someone explain the concept of statistical regression?,4,false,false,3,1/7/2024
+812,What’s the best way to prepare for the final exams?,5,false,false,2,5/14/2024
+813,Looking for someone to review my essay on environmental policies.,3,true,true,5,4/28/2023
+814,Looking for someone to review my essay on environmental policies.,2,true,true,2,1/17/2023
+815,Forming a study group for Organic Chemistry—anyone interested?,2,false,false,1,6/14/2024
+816,Can anyone help me with the assignment in Advanced Calculus?,2,true,false,4,4/27/2023
+817,What’s the easiest way to memorize historical dates?,3,false,false,1,4/26/2023
+818,Looking for someone to review my essay on environmental policies.,3,false,false,5,8/28/2023
+819,Forming a study group for Organic Chemistry—anyone interested?,3,true,false,2,2/5/2024
+820,Can someone explain the concept of statistical regression?,3,false,true,4,4/13/2023
+821,Is anyone available for a group project on Monday?,2,true,true,2,1/18/2023
+822,I’m struggling with my thesis. Any tips?,4,true,true,3,8/24/2023
+823,Looking for recommendations on elective courses for next semester.,5,false,true,2,9/19/2023
+824,What’s the best way to prepare for the final exams?,4,true,true,4,9/20/2023
+825,Can anyone help me with the assignment in Advanced Calculus?,1,false,true,2,4/1/2023
+826,What’s the easiest way to memorize historical dates?,4,false,false,3,7/1/2023
+827,What’s the easiest way to memorize historical dates?,4,true,false,2,1/29/2024
+828,What’s the best way to prepare for the final exams?,1,false,false,3,8/6/2024
+829,Need advice on balancing work and study. Any suggestions?,2,false,false,4,10/4/2023
+830,Does anyone have notes for yesterday's History lecture?,5,false,false,3,6/13/2024
+831,Who else is excited about the upcoming university festival?,4,false,true,1,11/24/2023
+832,Any tips on staying motivated during the exam season?,1,false,true,2,4/29/2024
+833,Can anyone help me with the assignment in Advanced Calculus?,4,false,false,1,2/7/2023
+834,Who’s interested in joining a debate club?,1,true,true,3,1/28/2024
+835,Looking for recommendations on elective courses for next semester.,2,true,false,5,8/13/2024
+836,Does anyone have notes for yesterday's History lecture?,2,false,false,2,4/19/2023
+837,What’s the best way to prepare for the final exams?,4,false,true,4,7/26/2024
+838,Who’s interested in joining a debate club?,2,false,false,5,4/20/2024
+839,Can someone explain the concept of statistical regression?,5,true,true,2,2/24/2023
+840,Does anyone have notes for yesterday's History lecture?,1,true,true,1,3/15/2023
+841,Seeking help with coding assignments. Any volunteers?,3,false,false,4,4/30/2023
+842,Can someone explain the concept of statistical regression?,2,false,false,3,1/21/2024
+843,Does anyone have notes for yesterday's History lecture?,3,false,true,3,7/24/2024
+844,Any tips on staying motivated during the exam season?,2,true,true,5,2/24/2024
+845,How do I join the student council?,1,true,true,4,5/9/2023
+846,Looking for someone to review my essay on environmental policies.,2,true,true,3,6/11/2023
+847,What’s the best way to prepare for the final exams?,5,true,true,5,2/24/2024
+848,I’m struggling with my thesis. Any tips?,3,true,false,4,8/15/2023
+849,Can anyone help me with the assignment in Advanced Calculus?,3,true,false,5,10/11/2023
+850,Does anyone know when the library is open during the holidays?,1,true,false,2,3/18/2023
+851,Who else is excited about the upcoming university festival?,2,false,false,5,8/15/2024
+852,Looking for recommendations on elective courses for next semester.,1,false,true,3,12/18/2023
+853,Is anyone available for a group project on Monday?,4,false,true,3,1/29/2024
+854,Seeking help with coding assignments. Any volunteers?,2,true,true,3,12/25/2023
+855,Seeking help with coding assignments. Any volunteers?,3,true,true,4,11/4/2023
+856,Can someone explain the concept of statistical regression?,2,true,true,4,1/2/2024
+857,Can anyone help me with the assignment in Advanced Calculus?,2,false,true,2,5/9/2023
+858,I’m struggling with my thesis. Any tips?,5,false,false,1,2/21/2023
+859,Need advice on balancing work and study. Any suggestions?,2,true,true,1,11/16/2023
+860,Looking for recommendations on elective courses for next semester.,1,false,false,2,7/7/2023
+861,Need advice on balancing work and study. Any suggestions?,3,false,true,4,5/5/2023
+862,Does anyone know when the library is open during the holidays?,4,false,true,4,1/27/2024
+863,Can someone explain the concept of statistical regression?,2,true,true,1,1/21/2023
+864,Seeking help with coding assignments. Any volunteers?,1,true,true,4,4/19/2024
+865,Looking for study buddies for the upcoming exams!,5,false,true,1,3/10/2023
+866,How do I join the student council?,3,true,false,3,8/6/2023
+867,Seeking help with coding assignments. Any volunteers?,3,false,false,2,10/6/2023
+868,Need advice on balancing work and study. Any suggestions?,4,true,false,3,10/24/2023
+869,How do I join the student council?,2,true,true,4,1/16/2024
+870,Need advice on balancing work and study. Any suggestions?,5,true,true,2,6/12/2023
+871,Seeking help with coding assignments. Any volunteers?,4,false,true,4,4/8/2023
+872,What’s the best coffee shop on campus for studying?,3,false,true,1,1/14/2024
+873,Any tips on staying motivated during the exam season?,3,false,true,3,9/17/2023
+874,What’s the best coffee shop on campus for studying?,1,true,true,4,1/10/2024
+875,Is anyone available for a group project on Monday?,1,true,false,3,3/2/2023
+876,Seeking help with coding assignments. Any volunteers?,3,false,false,5,12/20/2023
+877,I’m struggling with my thesis. Any tips?,4,false,false,3,2/1/2024
+878,Does anyone have notes for yesterday's History lecture?,2,true,false,3,1/18/2024
+879,How do I join the student council?,1,false,true,4,11/3/2023
+880,Does anyone have notes for yesterday's History lecture?,3,false,true,4,4/9/2023
+881,Seeking help with coding assignments. Any volunteers?,3,false,false,1,6/23/2024
+882,Seeking help with coding assignments. Any volunteers?,2,false,false,3,6/14/2023
+883,Can someone explain the concept of statistical regression?,4,false,false,3,6/1/2024
+884,Forming a study group for Organic Chemistry—anyone interested?,3,false,true,4,11/9/2023
+885,Any tips on staying motivated during the exam season?,2,true,false,2,3/6/2023
+886,Looking for study buddies for the upcoming exams!,1,true,false,5,5/20/2023
+887,Can someone share their experience with online classes this semester?,5,true,true,5,3/30/2023
+888,How do I join the student council?,3,false,false,2,4/30/2023
+889,Does anyone have notes for yesterday's History lecture?,4,true,false,3,7/6/2024
+890,I’m struggling with my thesis. Any tips?,3,false,true,2,8/28/2023
+891,Forming a study group for Organic Chemistry—anyone interested?,3,true,true,1,8/31/2023
+892,Can someone share their experience with online classes this semester?,2,false,true,1,3/3/2024
+893,Any tips on staying motivated during the exam season?,4,true,true,4,4/1/2024
+894,Is anyone available for a group project on Monday?,4,true,true,1,12/12/2023
+895,Need advice on balancing work and study. Any suggestions?,3,false,true,3,9/22/2023
+896,What’s the easiest way to memorize historical dates?,1,true,true,5,8/6/2024
+897,Can anyone help me with the assignment in Advanced Calculus?,1,true,false,3,3/3/2024
+898,What’s the best coffee shop on campus for studying?,4,true,true,5,4/22/2023
+899,How do I join the student council?,2,true,false,5,1/31/2023
+900,Who else is excited about the upcoming university festival?,4,true,false,4,2/28/2024
+901,Can anyone help me with the assignment in Advanced Calculus?,2,true,true,5,7/13/2023
+902,Looking for recommendations on elective courses for next semester.,1,false,true,4,1/15/2024
+903,Is anyone available for a group project on Monday?,4,true,false,5,12/17/2023
+904,Looking for study buddies for the upcoming exams!,1,false,false,1,7/8/2023
+905,Can someone explain the concept of statistical regression?,4,false,false,2,8/10/2024
+906,Looking for someone to review my essay on environmental policies.,1,false,false,4,6/23/2024
+907,Is anyone available for a group project on Monday?,3,true,true,2,1/13/2024
+908,What’s the best coffee shop on campus for studying?,5,true,true,3,2/1/2024
+909,Need advice on balancing work and study. Any suggestions?,4,false,false,1,2/9/2023
+910,I’m struggling with my thesis. Any tips?,5,false,false,3,6/12/2023
+911,Looking for study buddies for the upcoming exams!,5,false,false,2,2/28/2023
+912,Is anyone available for a group project on Monday?,1,false,true,3,2/2/2024
+913,Any tips on staying motivated during the exam season?,1,true,true,4,5/3/2023
+914,Is anyone available for a group project on Monday?,5,true,false,4,3/27/2023
+915,Does anyone know when the library is open during the holidays?,3,true,true,1,5/9/2023
+916,What’s the easiest way to memorize historical dates?,2,false,false,3,3/22/2023
+917,Forming a study group for Organic Chemistry—anyone interested?,2,true,false,1,12/26/2023
+918,Looking for someone to review my essay on environmental policies.,2,false,true,2,7/1/2023
+919,Who’s interested in joining a debate club?,5,true,false,2,4/22/2023
+920,Any tips on staying motivated during the exam season?,2,false,false,2,4/2/2023
+921,Looking for someone to review my essay on environmental policies.,5,false,false,4,7/17/2023
+922,How do I join the student council?,1,true,true,3,8/13/2023
+923,Who’s interested in joining a debate club?,1,false,true,1,1/25/2024
+924,Can someone explain the concept of statistical regression?,4,true,false,3,9/25/2023
+925,How do I join the student council?,4,false,true,2,7/17/2023
+926,Need advice on balancing work and study. Any suggestions?,1,true,false,3,11/3/2023
+927,Can someone share their experience with online classes this semester?,4,false,true,4,6/24/2024
+928,I’m struggling with my thesis. Any tips?,5,true,false,3,6/6/2023
+929,Looking for someone to review my essay on environmental policies.,5,false,false,5,10/12/2023
+930,What’s the easiest way to memorize historical dates?,4,false,true,2,2/10/2024
+931,Who else is excited about the upcoming university festival?,3,true,true,4,1/17/2024
+932,Who’s interested in joining a debate club?,1,true,false,1,8/8/2023
+933,Looking for recommendations on elective courses for next semester.,2,true,true,4,7/12/2023
+934,What’s the best way to prepare for the final exams?,5,false,false,5,7/29/2023
+935,Looking for recommendations on elective courses for next semester.,1,true,false,2,1/29/2023
+936,Any tips on staying motivated during the exam season?,2,true,true,1,6/12/2024
+937,Can someone explain the concept of statistical regression?,4,true,false,2,11/3/2023
+938,Who’s interested in joining a debate club?,1,true,false,2,10/21/2023
+939,Looking for recommendations on elective courses for next semester.,3,true,true,5,1/19/2024
+940,Looking for study buddies for the upcoming exams!,5,false,true,5,8/15/2023
+941,What’s the best way to prepare for the final exams?,4,false,true,2,1/3/2023
+942,Can someone share their experience with online classes this semester?,4,true,true,3,12/17/2023
+943,Who else is excited about the upcoming university festival?,4,false,false,5,4/14/2024
+944,Forming a study group for Organic Chemistry—anyone interested?,2,false,false,4,7/15/2023
+945,Forming a study group for Organic Chemistry—anyone interested?,3,true,true,2,7/11/2023
+946,What’s the easiest way to memorize historical dates?,2,false,true,3,11/4/2023
+947,Forming a study group for Organic Chemistry—anyone interested?,1,true,true,1,2/3/2023
+948,Can someone share their experience with online classes this semester?,2,false,false,2,4/30/2023
+949,How do I join the student council?,4,true,false,3,8/15/2023
+950,Seeking help with coding assignments. Any volunteers?,4,true,true,2,3/7/2024
+951,Looking for study buddies for the upcoming exams!,4,false,true,2,2/29/2024
+952,I’m struggling with my thesis. Any tips?,5,false,true,4,7/15/2024
+953,I’m struggling with my thesis. Any tips?,2,true,true,5,5/29/2024
+954,Does anyone have notes for yesterday's History lecture?,2,true,false,5,11/26/2023
+955,Any tips on staying motivated during the exam season?,2,true,false,1,5/1/2024
+956,Who’s interested in joining a debate club?,1,false,true,2,6/4/2024
+957,How do I join the student council?,1,false,false,3,11/23/2023
+958,Who’s interested in joining a debate club?,1,false,true,1,1/15/2024
+959,Does anyone have notes for yesterday's History lecture?,5,false,true,4,6/30/2023
+960,Who’s interested in joining a debate club?,1,false,false,2,10/13/2023
+961,Looking for recommendations on elective courses for next semester.,5,true,false,5,8/14/2024
+962,Looking for recommendations on elective courses for next semester.,2,false,false,5,7/4/2024
+963,Any tips on staying motivated during the exam season?,1,true,false,1,4/1/2024
+964,Can anyone help me with the assignment in Advanced Calculus?,4,false,false,2,1/22/2024
+965,What’s the best coffee shop on campus for studying?,5,false,true,4,5/22/2024
+966,Who else is excited about the upcoming university festival?,3,false,true,1,4/29/2023
+967,Can anyone help me with the assignment in Advanced Calculus?,3,true,false,3,7/31/2024
+968,Can anyone help me with the assignment in Advanced Calculus?,4,true,true,4,3/5/2023
+969,I’m struggling with my thesis. Any tips?,4,false,false,2,5/21/2023
+970,What’s the best way to prepare for the final exams?,4,true,false,1,4/25/2024
+971,Looking for someone to review my essay on environmental policies.,4,true,false,1,4/9/2023
+972,What’s the easiest way to memorize historical dates?,4,true,false,3,1/25/2024
+973,What’s the best way to prepare for the final exams?,2,false,true,5,9/13/2023
+974,Need advice on balancing work and study. Any suggestions?,2,false,true,2,4/15/2023
+975,Looking for study buddies for the upcoming exams!,5,true,true,2,6/6/2023
+976,Can someone explain the concept of statistical regression?,3,true,false,5,10/6/2023
+977,Is anyone available for a group project on Monday?,2,false,false,4,7/13/2024
+978,Seeking help with coding assignments. Any volunteers?,2,true,true,4,5/14/2024
+979,Who’s interested in joining a debate club?,4,false,true,5,3/30/2024
+980,Looking for someone to review my essay on environmental policies.,2,false,false,3,3/1/2023
+981,Can someone explain the concept of statistical regression?,3,true,true,3,11/27/2023
+982,Looking for study buddies for the upcoming exams!,3,false,false,2,3/1/2024
+983,Looking for study buddies for the upcoming exams!,2,false,true,5,7/10/2024
+984,Does anyone know when the library is open during the holidays?,1,false,false,4,6/26/2024
+985,Is anyone available for a group project on Monday?,1,false,true,2,8/6/2023
+986,Can anyone help me with the assignment in Advanced Calculus?,2,true,false,1,12/20/2023
+987,Can someone explain the concept of statistical regression?,2,false,true,3,6/27/2023
+988,Who’s interested in joining a debate club?,5,false,true,2,4/28/2024
+989,Is anyone available for a group project on Monday?,4,false,true,1,2/29/2024
+990,Does anyone have notes for yesterday's History lecture?,2,true,true,3,5/23/2024
+991,What’s the best coffee shop on campus for studying?,2,false,true,4,7/3/2023
+992,Can someone share their experience with online classes this semester?,3,true,true,1,1/14/2023
+993,What’s the best way to prepare for the final exams?,4,false,true,2,5/20/2023
+994,Looking for study buddies for the upcoming exams!,3,true,false,1,9/25/2023
+995,Forming a study group for Organic Chemistry—anyone interested?,1,false,false,1,12/26/2023
+996,I’m struggling with my thesis. Any tips?,4,false,false,1,10/3/2023
+997,Can anyone help me with the assignment in Advanced Calculus?,4,true,true,1,7/9/2023
+998,Is anyone available for a group project on Monday?,3,true,true,3,3/11/2024
+999,Can anyone help me with the assignment in Advanced Calculus?,5,true,true,4,3/17/2023
+1000,Does anyone know when the library is open during the holidays?,3,false,true,1,11/8/2023

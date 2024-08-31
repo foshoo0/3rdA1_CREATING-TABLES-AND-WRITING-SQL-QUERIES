@@ -1,0 +1,1001 @@
+GroupID,GroupName,CreatedBy,DateAdded
+1,Creative Writing Circle,1,6/21/2024
+2,Science Enthusiasts,2,8/17/2024
+3,Art and Design Society,3,6/19/2024
+4,Theater and Drama Club,5,9/3/2023
+5,Coding and Development,4,11/21/2023
+6,Coding and Development,1,7/29/2024
+7,Photography Club,1,1/4/2024
+8,Environmental Advocacy Group,3,3/27/2024
+9,Robotics Club,3,1/29/2024
+10,Coding and Development,5,2/15/2024
+11,Robotics Club,1,9/10/2023
+12,History Buffs,2,7/22/2024
+13,Volunteer Outreach Team,4,8/5/2024
+14,Art and Design Society,3,7/7/2024
+15,Cultural Exchange Group,1,9/25/2023
+16,Coding and Development,2,11/21/2023
+17,Creative Writing Circle,1,12/14/2023
+18,Coding and Development,1,12/3/2023
+19,Book Club,1,2/29/2024
+20,Gaming Community,4,12/25/2023
+21,Entrepreneurship Network,5,12/10/2023
+22,Art and Design Society,4,4/5/2024
+23,Cultural Exchange Group,5,4/26/2024
+24,Robotics Club,5,5/22/2024
+25,Music Lovers,3,3/27/2024
+26,History Buffs,1,3/13/2024
+27,Book Club,3,11/28/2023
+28,Creative Writing Circle,3,4/2/2024
+29,Entrepreneurship Network,2,1/31/2024
+30,Creative Writing Circle,4,12/15/2023
+31,Fitness and Wellness Club,4,12/14/2023
+32,Science Enthusiasts,1,1/12/2024
+33,Cultural Exchange Group,4,12/19/2023
+34,Fitness and Wellness Club,4,2/22/2024
+35,Math Study Group,2,6/18/2024
+36,Math Study Group,4,2/21/2024
+37,Debate Team,3,12/30/2023
+38,History Buffs,3,11/1/2023
+39,Language Learners,4,11/22/2023
+40,Book Club,1,11/25/2023
+41,Math Study Group,3,1/27/2024
+42,Math Study Group,4,3/19/2024
+43,Photography Club,1,5/18/2024
+44,Debate Team,3,7/6/2024
+45,Campus News and Media,4,7/14/2024
+46,Music Lovers,4,5/1/2024
+47,Cultural Exchange Group,3,8/16/2024
+48,Photography Club,3,11/30/2023
+49,Robotics Club,2,8/8/2024
+50,Fitness and Wellness Club,1,10/19/2023
+51,Campus News and Media,1,10/13/2023
+52,Debate Team,2,7/8/2024
+53,Creative Writing Circle,5,1/1/2024
+54,Book Club,5,10/19/2023
+55,Math Study Group,5,11/1/2023
+56,Art and Design Society,5,12/5/2023
+57,Robotics Club,3,5/17/2024
+58,Science Enthusiasts,2,10/14/2023
+59,Campus News and Media,1,7/26/2024
+60,Photography Club,5,7/11/2024
+61,Book Club,3,10/14/2023
+62,Book Club,4,12/17/2023
+63,Language Learners,5,10/14/2023
+64,Creative Writing Circle,4,12/2/2023
+65,Cultural Exchange Group,5,11/18/2023
+66,Language Learners,3,9/10/2023
+67,Creative Writing Circle,2,10/25/2023
+68,History Buffs,3,5/4/2024
+69,History Buffs,1,3/28/2024
+70,Environmental Advocacy Group,2,3/2/2024
+71,Book Club,1,10/24/2023
+72,Language Learners,2,12/29/2023
+73,Robotics Club,3,1/3/2024
+74,Science Enthusiasts,2,1/8/2024
+75,Volunteer Outreach Team,3,3/22/2024
+76,Volunteer Outreach Team,1,2/8/2024
+77,Robotics Club,5,7/30/2024
+78,Coding and Development,5,5/28/2024
+79,Robotics Club,4,1/7/2024
+80,Science Enthusiasts,3,6/29/2024
+81,Gaming Community,3,11/5/2023
+82,Fitness and Wellness Club,1,12/23/2023
+83,Art and Design Society,4,5/20/2024
+84,Debate Team,3,7/11/2024
+85,Theater and Drama Club,1,10/31/2023
+86,Gaming Community,2,12/22/2023
+87,Fitness and Wellness Club,1,8/9/2024
+88,Math Study Group,2,6/29/2024
+89,Math Study Group,3,4/14/2024
+90,Art and Design Society,4,3/5/2024
+91,Language Learners,5,11/27/2023
+92,Science Enthusiasts,4,7/23/2024
+93,Music Lovers,2,10/13/2023
+94,Book Club,4,3/6/2024
+95,Campus News and Media,5,9/21/2023
+96,Art and Design Society,3,9/20/2023
+97,Cultural Exchange Group,3,10/16/2023
+98,Environmental Advocacy Group,4,11/15/2023
+99,History Buffs,5,6/17/2024
+100,Art and Design Society,2,8/6/2024
+101,Volunteer Outreach Team,3,5/15/2024
+102,Language Learners,4,4/30/2024
+103,Entrepreneurship Network,1,10/5/2023
+104,Creative Writing Circle,1,3/25/2024
+105,Fitness and Wellness Club,4,11/6/2023
+106,Gaming Community,5,12/25/2023
+107,Coding and Development,2,6/5/2024
+108,Robotics Club,2,7/10/2024
+109,Language Learners,5,6/19/2024
+110,Entrepreneurship Network,2,5/11/2024
+111,History Buffs,5,5/13/2024
+112,Debate Team,2,8/24/2024
+113,History Buffs,5,1/4/2024
+114,Entrepreneurship Network,5,6/15/2024
+115,Book Club,4,10/1/2023
+116,Campus News and Media,5,11/13/2023
+117,Theater and Drama Club,2,5/18/2024
+118,Creative Writing Circle,5,1/13/2024
+119,Campus News and Media,2,5/29/2024
+120,Creative Writing Circle,1,10/24/2023
+121,Entrepreneurship Network,2,9/25/2023
+122,Robotics Club,3,1/25/2024
+123,Fitness and Wellness Club,2,9/7/2023
+124,Math Study Group,5,8/6/2024
+125,Environmental Advocacy Group,2,4/11/2024
+126,History Buffs,2,5/12/2024
+127,Creative Writing Circle,1,3/29/2024
+128,Photography Club,4,1/10/2024
+129,Fitness and Wellness Club,4,6/4/2024
+130,Gaming Community,5,12/31/2023
+131,Entrepreneurship Network,3,10/10/2023
+132,Volunteer Outreach Team,5,3/27/2024
+133,Campus News and Media,1,4/28/2024
+134,Environmental Advocacy Group,4,6/19/2024
+135,Cultural Exchange Group,1,9/22/2023
+136,Book Club,2,4/3/2024
+137,Volunteer Outreach Team,1,11/24/2023
+138,Photography Club,5,9/16/2023
+139,Coding and Development,3,1/24/2024
+140,Creative Writing Circle,2,9/27/2023
+141,Robotics Club,5,7/30/2024
+142,Book Club,3,9/5/2023
+143,Science Enthusiasts,1,10/30/2023
+144,Environmental Advocacy Group,5,7/1/2024
+145,Debate Team,3,1/28/2024
+146,Language Learners,2,9/18/2023
+147,Coding and Development,2,11/12/2023
+148,Cultural Exchange Group,4,7/7/2024
+149,Environmental Advocacy Group,1,8/1/2024
+150,Robotics Club,4,5/9/2024
+151,Theater and Drama Club,3,1/15/2024
+152,Environmental Advocacy Group,5,10/8/2023
+153,Art and Design Society,1,5/9/2024
+154,Science Enthusiasts,5,11/9/2023
+155,History Buffs,2,6/1/2024
+156,Science Enthusiasts,3,10/29/2023
+157,Creative Writing Circle,4,6/4/2024
+158,Campus News and Media,5,3/25/2024
+159,Campus News and Media,4,4/2/2024
+160,Fitness and Wellness Club,2,11/27/2023
+161,Cultural Exchange Group,5,6/29/2024
+162,Cultural Exchange Group,2,3/4/2024
+163,Fitness and Wellness Club,2,6/12/2024
+164,Creative Writing Circle,5,9/21/2023
+165,Creative Writing Circle,5,7/30/2024
+166,Language Learners,5,6/21/2024
+167,Entrepreneurship Network,4,5/4/2024
+168,Debate Team,5,6/27/2024
+169,Fitness and Wellness Club,4,12/18/2023
+170,Creative Writing Circle,5,10/31/2023
+171,Theater and Drama Club,3,5/24/2024
+172,Robotics Club,3,2/18/2024
+173,Creative Writing Circle,5,3/3/2024
+174,Music Lovers,4,7/17/2024
+175,Art and Design Society,4,9/26/2023
+176,Theater and Drama Club,1,2/16/2024
+177,Math Study Group,3,4/9/2024
+178,Campus News and Media,3,11/18/2023
+179,Cultural Exchange Group,3,9/13/2023
+180,Language Learners,3,11/23/2023
+181,Coding and Development,5,9/28/2023
+182,Music Lovers,4,4/25/2024
+183,Gaming Community,4,4/6/2024
+184,Campus News and Media,4,8/21/2024
+185,Photography Club,1,11/3/2023
+186,Book Club,4,7/4/2024
+187,Environmental Advocacy Group,2,9/15/2023
+188,Debate Team,4,6/28/2024
+189,History Buffs,3,5/12/2024
+190,Cultural Exchange Group,5,10/5/2023
+191,Theater and Drama Club,3,5/23/2024
+192,Environmental Advocacy Group,2,12/6/2023
+193,Math Study Group,4,2/21/2024
+194,Theater and Drama Club,2,3/15/2024
+195,Book Club,2,12/30/2023
+196,Math Study Group,4,4/26/2024
+197,Fitness and Wellness Club,3,4/6/2024
+198,Art and Design Society,1,9/1/2023
+199,Music Lovers,4,3/6/2024
+200,Music Lovers,5,4/17/2024
+201,Campus News and Media,2,12/26/2023
+202,Book Club,4,8/15/2024
+203,Photography Club,4,9/3/2023
+204,Music Lovers,5,9/9/2023
+205,Debate Team,1,1/15/2024
+206,Math Study Group,3,12/14/2023
+207,Environmental Advocacy Group,1,12/13/2023
+208,Environmental Advocacy Group,2,10/8/2023
+209,Language Learners,3,3/29/2024
+210,Fitness and Wellness Club,4,11/6/2023
+211,Science Enthusiasts,1,5/1/2024
+212,History Buffs,4,5/16/2024
+213,Gaming Community,2,3/27/2024
+214,Coding and Development,1,10/14/2023
+215,Environmental Advocacy Group,2,4/12/2024
+216,Music Lovers,4,7/4/2024
+217,Fitness and Wellness Club,5,5/9/2024
+218,Environmental Advocacy Group,2,2/25/2024
+219,Volunteer Outreach Team,3,10/21/2023
+220,History Buffs,3,12/2/2023
+221,Language Learners,3,9/9/2023
+222,Fitness and Wellness Club,3,3/19/2024
+223,Gaming Community,5,6/21/2024
+224,Science Enthusiasts,5,8/2/2024
+225,Language Learners,4,8/29/2024
+226,Volunteer Outreach Team,5,6/15/2024
+227,Book Club,3,9/3/2023
+228,Volunteer Outreach Team,5,10/26/2023
+229,Campus News and Media,5,1/1/2024
+230,Coding and Development,1,7/8/2024
+231,Language Learners,5,7/6/2024
+232,Science Enthusiasts,2,1/26/2024
+233,Environmental Advocacy Group,4,4/24/2024
+234,Campus News and Media,4,3/27/2024
+235,Photography Club,5,7/28/2024
+236,Cultural Exchange Group,4,11/19/2023
+237,Photography Club,2,1/16/2024
+238,Debate Team,1,6/13/2024
+239,Fitness and Wellness Club,3,3/2/2024
+240,Theater and Drama Club,2,9/17/2023
+241,Language Learners,4,12/29/2023
+242,Entrepreneurship Network,4,10/2/2023
+243,Art and Design Society,1,2/21/2024
+244,Theater and Drama Club,5,6/27/2024
+245,Environmental Advocacy Group,3,11/7/2023
+246,Debate Team,2,10/15/2023
+247,Cultural Exchange Group,3,10/22/2023
+248,Language Learners,2,12/17/2023
+249,Cultural Exchange Group,1,12/23/2023
+250,Environmental Advocacy Group,1,5/17/2024
+251,Campus News and Media,5,8/9/2024
+252,Debate Team,1,6/3/2024
+253,Cultural Exchange Group,1,11/12/2023
+254,Math Study Group,4,9/28/2023
+255,Photography Club,2,4/18/2024
+256,Science Enthusiasts,5,6/12/2024
+257,Cultural Exchange Group,4,8/16/2024
+258,Fitness and Wellness Club,4,11/10/2023
+259,Entrepreneurship Network,5,12/11/2023
+260,Theater and Drama Club,2,1/4/2024
+261,Fitness and Wellness Club,3,7/24/2024
+262,Coding and Development,4,9/27/2023
+263,Music Lovers,1,2/15/2024
+264,History Buffs,5,7/3/2024
+265,Math Study Group,5,12/27/2023
+266,Art and Design Society,3,4/18/2024
+267,Language Learners,3,12/16/2023
+268,Environmental Advocacy Group,4,6/26/2024
+269,Theater and Drama Club,3,10/19/2023
+270,Art and Design Society,5,1/6/2024
+271,Photography Club,3,7/8/2024
+272,Music Lovers,5,11/13/2023
+273,Cultural Exchange Group,2,5/15/2024
+274,Debate Team,4,10/20/2023
+275,Photography Club,2,12/8/2023
+276,Gaming Community,4,5/4/2024
+277,Language Learners,1,1/31/2024
+278,Science Enthusiasts,1,8/30/2024
+279,Robotics Club,4,11/13/2023
+280,Language Learners,1,7/21/2024
+281,Campus News and Media,5,11/8/2023
+282,Campus News and Media,4,10/12/2023
+283,Music Lovers,2,10/10/2023
+284,Book Club,2,8/1/2024
+285,Entrepreneurship Network,4,6/25/2024
+286,Music Lovers,2,8/16/2024
+287,Debate Team,5,5/22/2024
+288,Coding and Development,2,4/26/2024
+289,Theater and Drama Club,4,3/1/2024
+290,Music Lovers,3,11/2/2023
+291,Language Learners,2,5/29/2024
+292,Entrepreneurship Network,3,2/27/2024
+293,Cultural Exchange Group,3,11/22/2023
+294,Math Study Group,4,11/1/2023
+295,Math Study Group,1,4/21/2024
+296,Language Learners,4,12/5/2023
+297,Coding and Development,2,6/9/2024
+298,Book Club,4,2/19/2024
+299,Volunteer Outreach Team,5,10/5/2023
+300,Robotics Club,5,9/7/2023
+301,Campus News and Media,2,12/8/2023
+302,Theater and Drama Club,5,11/20/2023
+303,Fitness and Wellness Club,4,8/20/2024
+304,Math Study Group,5,6/12/2024
+305,Cultural Exchange Group,4,4/26/2024
+306,Campus News and Media,3,11/15/2023
+307,Language Learners,1,9/23/2023
+308,Volunteer Outreach Team,2,4/2/2024
+309,Volunteer Outreach Team,5,7/28/2024
+310,Math Study Group,1,1/18/2024
+311,Theater and Drama Club,1,5/17/2024
+312,Robotics Club,4,11/20/2023
+313,Entrepreneurship Network,2,11/29/2023
+314,History Buffs,1,9/6/2023
+315,Theater and Drama Club,2,10/21/2023
+316,Cultural Exchange Group,3,9/6/2023
+317,Theater and Drama Club,1,5/30/2024
+318,Robotics Club,2,10/3/2023
+319,Art and Design Society,4,9/8/2023
+320,Debate Team,2,2/15/2024
+321,Book Club,3,9/24/2023
+322,Entrepreneurship Network,5,12/9/2023
+323,History Buffs,4,12/13/2023
+324,Science Enthusiasts,5,5/14/2024
+325,Language Learners,5,5/7/2024
+326,Theater and Drama Club,2,11/9/2023
+327,Campus News and Media,3,10/24/2023
+328,Music Lovers,2,3/16/2024
+329,Robotics Club,5,6/16/2024
+330,Cultural Exchange Group,4,12/29/2023
+331,Music Lovers,3,8/29/2024
+332,Environmental Advocacy Group,5,4/23/2024
+333,Fitness and Wellness Club,2,11/26/2023
+334,Debate Team,4,5/17/2024
+335,Environmental Advocacy Group,5,2/11/2024
+336,Debate Team,1,6/13/2024
+337,History Buffs,3,4/17/2024
+338,Cultural Exchange Group,3,2/15/2024
+339,Volunteer Outreach Team,2,2/18/2024
+340,Fitness and Wellness Club,3,3/28/2024
+341,Language Learners,4,10/25/2023
+342,Entrepreneurship Network,2,1/1/2024
+343,Cultural Exchange Group,4,11/5/2023
+344,Coding and Development,2,12/27/2023
+345,Language Learners,1,9/23/2023
+346,Fitness and Wellness Club,2,10/4/2023
+347,Debate Team,3,8/6/2024
+348,Math Study Group,4,12/9/2023
+349,Coding and Development,5,7/29/2024
+350,History Buffs,4,5/8/2024
+351,Theater and Drama Club,4,7/4/2024
+352,Language Learners,3,7/20/2024
+353,Math Study Group,3,4/1/2024
+354,Cultural Exchange Group,4,8/29/2024
+355,Music Lovers,4,9/28/2023
+356,Theater and Drama Club,1,12/17/2023
+357,Art and Design Society,2,10/9/2023
+358,Volunteer Outreach Team,2,2/22/2024
+359,Theater and Drama Club,5,7/19/2024
+360,Book Club,4,8/10/2024
+361,Robotics Club,2,10/1/2023
+362,Entrepreneurship Network,5,4/9/2024
+363,Music Lovers,2,7/10/2024
+364,Robotics Club,5,4/7/2024
+365,Theater and Drama Club,1,4/8/2024
+366,Book Club,4,3/3/2024
+367,History Buffs,5,6/9/2024
+368,Environmental Advocacy Group,4,6/11/2024
+369,Entrepreneurship Network,5,10/28/2023
+370,Debate Team,3,2/25/2024
+371,Math Study Group,4,4/19/2024
+372,Music Lovers,1,11/9/2023
+373,Fitness and Wellness Club,4,6/13/2024
+374,History Buffs,1,6/5/2024
+375,Coding and Development,5,8/26/2024
+376,Debate Team,4,12/5/2023
+377,Debate Team,2,6/17/2024
+378,Fitness and Wellness Club,2,2/24/2024
+379,Gaming Community,2,11/2/2023
+380,Book Club,1,10/12/2023
+381,Language Learners,3,10/7/2023
+382,Music Lovers,2,9/20/2023
+383,Music Lovers,4,12/25/2023
+384,Creative Writing Circle,1,12/29/2023
+385,Debate Team,3,2/21/2024
+386,Entrepreneurship Network,3,6/13/2024
+387,Creative Writing Circle,2,8/4/2024
+388,Entrepreneurship Network,5,11/1/2023
+389,Campus News and Media,1,5/1/2024
+390,Debate Team,3,7/14/2024
+391,Fitness and Wellness Club,4,4/28/2024
+392,Debate Team,5,12/18/2023
+393,Photography Club,2,7/14/2024
+394,Creative Writing Circle,5,4/9/2024
+395,Photography Club,2,11/1/2023
+396,Photography Club,4,3/17/2024
+397,Cultural Exchange Group,2,9/5/2023
+398,Language Learners,1,12/20/2023
+399,Debate Team,3,11/15/2023
+400,Book Club,1,5/30/2024
+401,Book Club,3,5/28/2024
+402,Music Lovers,4,10/11/2023
+403,Entrepreneurship Network,2,1/4/2024
+404,Cultural Exchange Group,1,11/8/2023
+405,Creative Writing Circle,3,9/23/2023
+406,Math Study Group,4,5/13/2024
+407,Music Lovers,4,6/17/2024
+408,Art and Design Society,1,9/3/2023
+409,Volunteer Outreach Team,1,12/10/2023
+410,Environmental Advocacy Group,5,4/16/2024
+411,Volunteer Outreach Team,5,3/15/2024
+412,Photography Club,3,12/17/2023
+413,Theater and Drama Club,2,7/6/2024
+414,Robotics Club,4,4/4/2024
+415,Math Study Group,3,12/11/2023
+416,Robotics Club,4,3/19/2024
+417,History Buffs,2,5/17/2024
+418,Fitness and Wellness Club,3,9/18/2023
+419,Creative Writing Circle,5,6/22/2024
+420,Math Study Group,3,2/18/2024
+421,Creative Writing Circle,1,2/11/2024
+422,Creative Writing Circle,5,2/29/2024
+423,Science Enthusiasts,2,11/19/2023
+424,Debate Team,2,4/19/2024
+425,Music Lovers,1,5/7/2024
+426,Volunteer Outreach Team,5,4/3/2024
+427,Debate Team,5,9/20/2023
+428,Coding and Development,5,1/4/2024
+429,Music Lovers,4,8/18/2024
+430,Campus News and Media,2,7/7/2024
+431,Environmental Advocacy Group,1,3/2/2024
+432,Campus News and Media,2,3/5/2024
+433,Campus News and Media,4,7/9/2024
+434,Volunteer Outreach Team,1,3/8/2024
+435,Book Club,4,8/30/2024
+436,Gaming Community,2,4/24/2024
+437,Photography Club,1,5/20/2024
+438,Math Study Group,2,6/27/2024
+439,Cultural Exchange Group,4,8/6/2024
+440,Volunteer Outreach Team,5,9/13/2023
+441,Math Study Group,1,9/21/2023
+442,Creative Writing Circle,1,12/17/2023
+443,Language Learners,2,1/20/2024
+444,Debate Team,2,10/4/2023
+445,Cultural Exchange Group,5,10/31/2023
+446,Theater and Drama Club,3,5/31/2024
+447,Music Lovers,5,10/6/2023
+448,Volunteer Outreach Team,2,4/10/2024
+449,Coding and Development,2,4/5/2024
+450,Music Lovers,3,7/18/2024
+451,Language Learners,5,8/19/2024
+452,Gaming Community,2,7/2/2024
+453,Fitness and Wellness Club,1,8/2/2024
+454,Environmental Advocacy Group,4,12/10/2023
+455,Debate Team,1,7/6/2024
+456,Cultural Exchange Group,2,12/29/2023
+457,Book Club,4,12/31/2023
+458,Campus News and Media,4,7/4/2024
+459,Photography Club,3,3/23/2024
+460,Book Club,1,1/26/2024
+461,History Buffs,4,2/1/2024
+462,Campus News and Media,4,6/27/2024
+463,Language Learners,2,3/23/2024
+464,Debate Team,3,11/24/2023
+465,Theater and Drama Club,3,5/13/2024
+466,Entrepreneurship Network,4,6/1/2024
+467,Music Lovers,2,12/4/2023
+468,Theater and Drama Club,1,7/3/2024
+469,Cultural Exchange Group,4,4/5/2024
+470,Language Learners,3,4/27/2024
+471,Debate Team,4,2/28/2024
+472,Gaming Community,2,5/16/2024
+473,Music Lovers,1,8/18/2024
+474,Science Enthusiasts,5,5/4/2024
+475,Campus News and Media,2,7/16/2024
+476,Fitness and Wellness Club,3,9/23/2023
+477,Debate Team,1,11/28/2023
+478,Gaming Community,4,3/10/2024
+479,Language Learners,5,11/2/2023
+480,Creative Writing Circle,3,12/10/2023
+481,Cultural Exchange Group,4,8/22/2024
+482,Theater and Drama Club,2,7/15/2024
+483,Theater and Drama Club,2,9/6/2023
+484,Cultural Exchange Group,3,8/14/2024
+485,Book Club,1,3/18/2024
+486,Photography Club,5,7/21/2024
+487,Coding and Development,2,9/27/2023
+488,Fitness and Wellness Club,4,9/26/2023
+489,Language Learners,5,10/23/2023
+490,Coding and Development,3,8/22/2024
+491,Photography Club,5,8/9/2024
+492,Photography Club,5,6/9/2024
+493,Entrepreneurship Network,5,2/4/2024
+494,Campus News and Media,5,11/16/2023
+495,Environmental Advocacy Group,2,7/20/2024
+496,Gaming Community,1,7/8/2024
+497,Art and Design Society,5,6/9/2024
+498,Entrepreneurship Network,4,5/9/2024
+499,Cultural Exchange Group,5,1/26/2024
+500,Gaming Community,2,2/25/2024
+501,Photography Club,4,12/14/2023
+502,Science Enthusiasts,5,3/21/2024
+503,Photography Club,3,2/4/2024
+504,Robotics Club,2,7/5/2024
+505,Book Club,4,9/28/2023
+506,Debate Team,2,7/30/2024
+507,Environmental Advocacy Group,5,9/27/2023
+508,Creative Writing Circle,5,7/4/2024
+509,Fitness and Wellness Club,3,11/6/2023
+510,Entrepreneurship Network,3,1/22/2024
+511,Book Club,2,8/3/2024
+512,Creative Writing Circle,1,1/28/2024
+513,Science Enthusiasts,4,5/17/2024
+514,Math Study Group,2,3/8/2024
+515,Language Learners,2,3/6/2024
+516,Entrepreneurship Network,1,2/23/2024
+517,Debate Team,2,1/10/2024
+518,Language Learners,2,8/5/2024
+519,Theater and Drama Club,2,5/17/2024
+520,Theater and Drama Club,1,3/21/2024
+521,Campus News and Media,4,11/9/2023
+522,Volunteer Outreach Team,2,11/16/2023
+523,Environmental Advocacy Group,2,9/4/2023
+524,Photography Club,3,7/12/2024
+525,Science Enthusiasts,4,2/20/2024
+526,Campus News and Media,5,1/11/2024
+527,Cultural Exchange Group,3,7/17/2024
+528,Gaming Community,1,6/14/2024
+529,Fitness and Wellness Club,5,11/4/2023
+530,Fitness and Wellness Club,4,5/1/2024
+531,Math Study Group,3,11/28/2023
+532,Language Learners,2,12/3/2023
+533,Coding and Development,2,8/16/2024
+534,Book Club,1,5/22/2024
+535,Photography Club,1,4/23/2024
+536,Coding and Development,3,9/24/2023
+537,Gaming Community,1,5/18/2024
+538,Campus News and Media,5,2/20/2024
+539,Photography Club,2,1/19/2024
+540,Robotics Club,1,8/12/2024
+541,Cultural Exchange Group,3,1/29/2024
+542,Theater and Drama Club,5,12/20/2023
+543,Cultural Exchange Group,4,11/22/2023
+544,Entrepreneurship Network,3,8/24/2024
+545,Robotics Club,2,5/24/2024
+546,Coding and Development,3,3/21/2024
+547,Gaming Community,4,5/13/2024
+548,History Buffs,2,1/3/2024
+549,Cultural Exchange Group,4,9/28/2023
+550,Environmental Advocacy Group,5,6/7/2024
+551,Entrepreneurship Network,1,6/12/2024
+552,Robotics Club,4,12/12/2023
+553,Language Learners,4,1/10/2024
+554,Coding and Development,4,6/14/2024
+555,Cultural Exchange Group,2,7/1/2024
+556,Entrepreneurship Network,4,11/15/2023
+557,Art and Design Society,1,8/12/2024
+558,Science Enthusiasts,2,9/30/2023
+559,History Buffs,2,1/11/2024
+560,Language Learners,5,8/26/2024
+561,Robotics Club,3,9/7/2023
+562,Debate Team,4,2/19/2024
+563,Cultural Exchange Group,3,11/8/2023
+564,Debate Team,4,5/20/2024
+565,Volunteer Outreach Team,5,7/10/2024
+566,Fitness and Wellness Club,1,10/10/2023
+567,Robotics Club,4,10/31/2023
+568,Campus News and Media,4,6/10/2024
+569,Art and Design Society,3,8/2/2024
+570,Music Lovers,5,1/20/2024
+571,Theater and Drama Club,3,10/6/2023
+572,Coding and Development,1,2/7/2024
+573,Language Learners,2,10/7/2023
+574,Music Lovers,5,7/5/2024
+575,Cultural Exchange Group,3,12/14/2023
+576,History Buffs,2,10/2/2023
+577,Creative Writing Circle,4,6/27/2024
+578,Math Study Group,1,11/3/2023
+579,Coding and Development,1,12/8/2023
+580,Gaming Community,1,7/5/2024
+581,Campus News and Media,3,4/24/2024
+582,History Buffs,2,5/7/2024
+583,Book Club,2,6/4/2024
+584,Cultural Exchange Group,4,7/13/2024
+585,Debate Team,5,1/18/2024
+586,Coding and Development,4,11/16/2023
+587,Campus News and Media,2,9/28/2023
+588,Photography Club,3,9/14/2023
+589,Volunteer Outreach Team,5,4/27/2024
+590,Creative Writing Circle,3,4/9/2024
+591,Book Club,2,6/26/2024
+592,Photography Club,2,7/3/2024
+593,Photography Club,4,1/19/2024
+594,Entrepreneurship Network,3,5/11/2024
+595,Robotics Club,2,11/8/2023
+596,Volunteer Outreach Team,1,8/9/2024
+597,Debate Team,4,1/30/2024
+598,Art and Design Society,4,4/19/2024
+599,Art and Design Society,5,1/25/2024
+600,Cultural Exchange Group,5,2/24/2024
+601,Science Enthusiasts,3,5/4/2024
+602,Volunteer Outreach Team,3,4/24/2024
+603,Language Learners,5,12/10/2023
+604,Music Lovers,5,9/30/2023
+605,Math Study Group,5,1/6/2024
+606,Debate Team,4,3/9/2024
+607,Environmental Advocacy Group,1,3/20/2024
+608,Gaming Community,5,7/16/2024
+609,Science Enthusiasts,3,12/3/2023
+610,Creative Writing Circle,4,10/26/2023
+611,Debate Team,5,10/24/2023
+612,Math Study Group,2,12/7/2023
+613,Environmental Advocacy Group,2,6/1/2024
+614,Science Enthusiasts,3,6/20/2024
+615,Language Learners,3,11/26/2023
+616,Environmental Advocacy Group,2,4/18/2024
+617,Photography Club,3,12/29/2023
+618,Language Learners,4,2/2/2024
+619,Art and Design Society,3,4/14/2024
+620,Cultural Exchange Group,1,6/22/2024
+621,Robotics Club,4,6/9/2024
+622,Music Lovers,4,1/17/2024
+623,Entrepreneurship Network,5,9/28/2023
+624,Campus News and Media,2,7/4/2024
+625,Gaming Community,2,9/5/2023
+626,Campus News and Media,2,3/13/2024
+627,Math Study Group,2,4/30/2024
+628,Creative Writing Circle,4,2/25/2024
+629,Science Enthusiasts,3,10/10/2023
+630,Robotics Club,1,1/30/2024
+631,Gaming Community,1,12/31/2023
+632,Music Lovers,3,6/22/2024
+633,Book Club,1,3/29/2024
+634,Campus News and Media,2,7/5/2024
+635,Photography Club,3,4/9/2024
+636,Entrepreneurship Network,1,10/14/2023
+637,Coding and Development,1,2/8/2024
+638,Book Club,5,3/24/2024
+639,Language Learners,2,6/27/2024
+640,Environmental Advocacy Group,3,2/23/2024
+641,Science Enthusiasts,5,12/3/2023
+642,Creative Writing Circle,3,8/12/2024
+643,History Buffs,5,12/19/2023
+644,Language Learners,1,12/3/2023
+645,Coding and Development,5,1/22/2024
+646,Photography Club,3,5/27/2024
+647,Entrepreneurship Network,5,9/9/2023
+648,Campus News and Media,4,1/8/2024
+649,Robotics Club,3,9/18/2023
+650,Environmental Advocacy Group,5,1/27/2024
+651,Creative Writing Circle,4,10/26/2023
+652,Photography Club,2,11/17/2023
+653,Volunteer Outreach Team,1,4/14/2024
+654,Book Club,5,6/11/2024
+655,Campus News and Media,3,10/21/2023
+656,Fitness and Wellness Club,3,2/19/2024
+657,Debate Team,2,6/4/2024
+658,Theater and Drama Club,3,8/25/2024
+659,Environmental Advocacy Group,4,1/25/2024
+660,Debate Team,5,8/31/2023
+661,Math Study Group,3,11/15/2023
+662,Coding and Development,5,9/1/2023
+663,Book Club,1,9/7/2023
+664,History Buffs,4,9/5/2023
+665,Gaming Community,3,12/21/2023
+666,History Buffs,5,12/14/2023
+667,Volunteer Outreach Team,5,10/8/2023
+668,Theater and Drama Club,1,11/1/2023
+669,Music Lovers,4,5/24/2024
+670,Entrepreneurship Network,2,6/28/2024
+671,Gaming Community,3,8/14/2024
+672,Book Club,5,9/25/2023
+673,Gaming Community,4,9/14/2023
+674,Photography Club,1,7/8/2024
+675,Coding and Development,3,6/7/2024
+676,Theater and Drama Club,2,4/23/2024
+677,Entrepreneurship Network,1,10/24/2023
+678,Science Enthusiasts,2,5/15/2024
+679,Volunteer Outreach Team,4,11/11/2023
+680,Campus News and Media,3,11/18/2023
+681,Photography Club,5,12/28/2023
+682,Creative Writing Circle,5,5/12/2024
+683,Entrepreneurship Network,3,9/24/2023
+684,Volunteer Outreach Team,5,11/7/2023
+685,Music Lovers,1,2/22/2024
+686,Debate Team,2,8/13/2024
+687,Math Study Group,5,10/26/2023
+688,Debate Team,5,7/28/2024
+689,Environmental Advocacy Group,3,1/3/2024
+690,Music Lovers,2,8/30/2024
+691,Photography Club,4,10/2/2023
+692,Robotics Club,2,8/17/2024
+693,Cultural Exchange Group,5,10/13/2023
+694,Environmental Advocacy Group,5,1/30/2024
+695,Volunteer Outreach Team,2,2/21/2024
+696,Music Lovers,5,6/10/2024
+697,Creative Writing Circle,5,10/7/2023
+698,Music Lovers,3,9/3/2023
+699,Fitness and Wellness Club,1,1/24/2024
+700,Math Study Group,5,9/21/2023
+701,Entrepreneurship Network,1,6/29/2024
+702,Robotics Club,3,1/27/2024
+703,Creative Writing Circle,4,4/29/2024
+704,Entrepreneurship Network,4,11/24/2023
+705,Robotics Club,3,2/15/2024
+706,Art and Design Society,3,5/27/2024
+707,Music Lovers,2,3/15/2024
+708,Book Club,1,12/6/2023
+709,Science Enthusiasts,1,5/15/2024
+710,Music Lovers,5,8/30/2024
+711,Entrepreneurship Network,5,12/11/2023
+712,Science Enthusiasts,1,12/16/2023
+713,Fitness and Wellness Club,1,11/22/2023
+714,Environmental Advocacy Group,5,8/23/2024
+715,Entrepreneurship Network,2,5/12/2024
+716,Gaming Community,2,3/30/2024
+717,Art and Design Society,5,10/3/2023
+718,Language Learners,4,8/16/2024
+719,Theater and Drama Club,2,7/22/2024
+720,Book Club,1,2/3/2024
+721,Robotics Club,2,7/2/2024
+722,Book Club,3,2/7/2024
+723,Language Learners,5,6/15/2024
+724,Photography Club,1,7/13/2024
+725,Theater and Drama Club,1,6/22/2024
+726,Photography Club,3,5/9/2024
+727,Fitness and Wellness Club,4,8/16/2024
+728,Entrepreneurship Network,5,4/21/2024
+729,Music Lovers,4,4/20/2024
+730,History Buffs,5,2/27/2024
+731,Volunteer Outreach Team,3,2/25/2024
+732,Art and Design Society,1,4/1/2024
+733,Book Club,1,1/17/2024
+734,Fitness and Wellness Club,1,5/16/2024
+735,History Buffs,3,12/26/2023
+736,Campus News and Media,4,5/6/2024
+737,Photography Club,2,8/25/2024
+738,Debate Team,2,7/28/2024
+739,Creative Writing Circle,4,1/12/2024
+740,Volunteer Outreach Team,1,10/11/2023
+741,Math Study Group,3,11/23/2023
+742,Music Lovers,2,10/27/2023
+743,Coding and Development,2,7/29/2024
+744,Coding and Development,4,4/6/2024
+745,Photography Club,3,11/5/2023
+746,Science Enthusiasts,2,1/17/2024
+747,Creative Writing Circle,1,5/28/2024
+748,Math Study Group,1,5/3/2024
+749,Science Enthusiasts,4,10/16/2023
+750,Campus News and Media,5,12/31/2023
+751,Art and Design Society,2,9/22/2023
+752,Robotics Club,2,3/28/2024
+753,History Buffs,5,11/20/2023
+754,Math Study Group,4,1/7/2024
+755,Environmental Advocacy Group,2,9/1/2023
+756,Campus News and Media,5,4/5/2024
+757,Robotics Club,2,10/20/2023
+758,Robotics Club,3,9/22/2023
+759,Environmental Advocacy Group,1,8/22/2024
+760,Fitness and Wellness Club,5,9/10/2023
+761,Fitness and Wellness Club,3,4/21/2024
+762,Math Study Group,1,11/4/2023
+763,History Buffs,2,7/13/2024
+764,Theater and Drama Club,4,4/11/2024
+765,Debate Team,4,9/25/2023
+766,Photography Club,5,9/7/2023
+767,Book Club,5,1/20/2024
+768,Theater and Drama Club,4,5/21/2024
+769,Photography Club,2,6/20/2024
+770,History Buffs,2,7/27/2024
+771,Photography Club,2,5/26/2024
+772,Science Enthusiasts,1,11/30/2023
+773,Debate Team,5,7/24/2024
+774,Cultural Exchange Group,3,11/17/2023
+775,Gaming Community,5,12/12/2023
+776,Art and Design Society,5,6/8/2024
+777,Fitness and Wellness Club,4,12/5/2023
+778,Cultural Exchange Group,3,9/29/2023
+779,Environmental Advocacy Group,2,2/9/2024
+780,Music Lovers,3,9/30/2023
+781,Math Study Group,4,8/4/2024
+782,History Buffs,2,11/22/2023
+783,Robotics Club,5,12/28/2023
+784,Photography Club,2,6/20/2024
+785,Science Enthusiasts,5,1/24/2024
+786,Photography Club,2,3/1/2024
+787,Cultural Exchange Group,3,6/22/2024
+788,Music Lovers,3,9/3/2023
+789,Math Study Group,1,8/28/2024
+790,Math Study Group,5,5/1/2024
+791,Fitness and Wellness Club,3,7/1/2024
+792,Language Learners,2,5/9/2024
+793,Photography Club,2,9/23/2023
+794,Photography Club,1,11/20/2023
+795,Cultural Exchange Group,4,8/9/2024
+796,Art and Design Society,1,1/1/2024
+797,History Buffs,4,8/17/2024
+798,Science Enthusiasts,4,7/18/2024
+799,Book Club,2,1/12/2024
+800,Volunteer Outreach Team,5,8/31/2023
+801,Volunteer Outreach Team,2,5/20/2024
+802,Gaming Community,1,1/31/2024
+803,Robotics Club,3,9/28/2023
+804,Cultural Exchange Group,1,1/14/2024
+805,Music Lovers,3,10/9/2023
+806,Theater and Drama Club,2,12/18/2023
+807,Cultural Exchange Group,1,6/22/2024
+808,Gaming Community,3,2/23/2024
+809,History Buffs,3,5/21/2024
+810,Creative Writing Circle,3,9/25/2023
+811,Entrepreneurship Network,2,9/20/2023
+812,Fitness and Wellness Club,4,7/4/2024
+813,Theater and Drama Club,3,12/22/2023
+814,Science Enthusiasts,1,9/15/2023
+815,History Buffs,2,10/11/2023
+816,Cultural Exchange Group,4,8/17/2024
+817,Book Club,1,6/19/2024
+818,Science Enthusiasts,1,10/14/2023
+819,Fitness and Wellness Club,3,12/13/2023
+820,Gaming Community,4,4/25/2024
+821,Photography Club,1,2/14/2024
+822,Robotics Club,2,11/9/2023
+823,Entrepreneurship Network,3,11/15/2023
+824,Science Enthusiasts,3,6/26/2024
+825,Robotics Club,3,5/8/2024
+826,Science Enthusiasts,1,12/29/2023
+827,Debate Team,1,9/14/2023
+828,Entrepreneurship Network,5,8/10/2024
+829,Campus News and Media,4,3/8/2024
+830,Photography Club,3,3/13/2024
+831,Fitness and Wellness Club,4,6/16/2024
+832,Volunteer Outreach Team,4,3/30/2024
+833,Robotics Club,1,8/31/2023
+834,Entrepreneurship Network,3,6/10/2024
+835,Art and Design Society,5,2/19/2024
+836,Coding and Development,1,10/9/2023
+837,Book Club,4,8/18/2024
+838,Book Club,5,10/1/2023
+839,History Buffs,2,3/18/2024
+840,Debate Team,2,2/9/2024
+841,Theater and Drama Club,2,9/13/2023
+842,Fitness and Wellness Club,3,9/16/2023
+843,Creative Writing Circle,4,12/4/2023
+844,Environmental Advocacy Group,2,11/1/2023
+845,Science Enthusiasts,2,4/27/2024
+846,Book Club,4,8/29/2024
+847,Gaming Community,3,10/17/2023
+848,Creative Writing Circle,5,3/14/2024
+849,Art and Design Society,1,9/15/2023
+850,Music Lovers,5,10/5/2023
+851,Science Enthusiasts,2,2/7/2024
+852,Volunteer Outreach Team,3,1/31/2024
+853,Gaming Community,4,1/11/2024
+854,Volunteer Outreach Team,1,3/19/2024
+855,History Buffs,3,6/14/2024
+856,Entrepreneurship Network,4,5/9/2024
+857,Art and Design Society,4,1/10/2024
+858,Environmental Advocacy Group,2,5/27/2024
+859,Photography Club,1,7/16/2024
+860,Campus News and Media,4,5/23/2024
+861,Math Study Group,2,2/18/2024
+862,Gaming Community,3,11/16/2023
+863,Theater and Drama Club,3,7/12/2024
+864,Theater and Drama Club,1,7/16/2024
+865,Science Enthusiasts,3,9/12/2023
+866,Photography Club,3,6/10/2024
+867,Science Enthusiasts,1,10/5/2023
+868,Creative Writing Circle,3,3/29/2024
+869,Math Study Group,3,2/24/2024
+870,Photography Club,2,11/13/2023
+871,Gaming Community,2,1/25/2024
+872,Coding and Development,5,6/15/2024
+873,Music Lovers,5,9/21/2023
+874,Book Club,2,3/22/2024
+875,Environmental Advocacy Group,2,7/17/2024
+876,Math Study Group,4,9/6/2023
+877,Entrepreneurship Network,2,9/23/2023
+878,History Buffs,2,1/26/2024
+879,Science Enthusiasts,5,8/9/2024
+880,Cultural Exchange Group,2,7/19/2024
+881,Creative Writing Circle,2,7/7/2024
+882,Volunteer Outreach Team,2,10/16/2023
+883,Coding and Development,2,10/23/2023
+884,History Buffs,1,1/14/2024
+885,Creative Writing Circle,4,11/18/2023
+886,Creative Writing Circle,1,12/24/2023
+887,Art and Design Society,4,7/31/2024
+888,Science Enthusiasts,5,1/27/2024
+889,Fitness and Wellness Club,3,6/8/2024
+890,Language Learners,3,3/25/2024
+891,Volunteer Outreach Team,2,6/19/2024
+892,Environmental Advocacy Group,3,12/31/2023
+893,Science Enthusiasts,4,1/19/2024
+894,Volunteer Outreach Team,4,5/17/2024
+895,Fitness and Wellness Club,2,1/13/2024
+896,Science Enthusiasts,2,12/15/2023
+897,Gaming Community,3,10/8/2023
+898,Theater and Drama Club,3,1/28/2024
+899,Art and Design Society,1,3/4/2024
+900,Book Club,1,6/13/2024
+901,Language Learners,1,1/12/2024
+902,Math Study Group,1,11/26/2023
+903,Art and Design Society,5,12/18/2023
+904,Volunteer Outreach Team,3,2/3/2024
+905,Theater and Drama Club,5,5/20/2024
+906,Book Club,2,4/29/2024
+907,Robotics Club,2,3/26/2024
+908,Cultural Exchange Group,2,8/31/2023
+909,Music Lovers,5,12/5/2023
+910,Creative Writing Circle,4,12/25/2023
+911,Volunteer Outreach Team,2,12/31/2023
+912,Robotics Club,1,2/19/2024
+913,Volunteer Outreach Team,4,7/13/2024
+914,Music Lovers,2,2/18/2024
+915,Photography Club,2,4/7/2024
+916,Language Learners,1,3/11/2024
+917,Campus News and Media,4,12/13/2023
+918,Book Club,3,4/27/2024
+919,Science Enthusiasts,4,3/20/2024
+920,Art and Design Society,4,3/15/2024
+921,Music Lovers,3,8/30/2024
+922,Math Study Group,3,1/29/2024
+923,Campus News and Media,4,6/26/2024
+924,Art and Design Society,4,4/23/2024
+925,Volunteer Outreach Team,4,8/20/2024
+926,Fitness and Wellness Club,5,1/25/2024
+927,Entrepreneurship Network,4,9/24/2023
+928,Volunteer Outreach Team,5,5/22/2024
+929,Art and Design Society,3,11/3/2023
+930,Entrepreneurship Network,4,8/22/2024
+931,Robotics Club,2,10/7/2023
+932,Coding and Development,1,5/24/2024
+933,History Buffs,2,11/30/2023
+934,Theater and Drama Club,1,12/23/2023
+935,Campus News and Media,4,1/24/2024
+936,Music Lovers,1,3/5/2024
+937,Language Learners,3,8/12/2024
+938,Language Learners,4,7/28/2024
+939,Book Club,3,7/12/2024
+940,Art and Design Society,1,2/24/2024
+941,Campus News and Media,2,4/14/2024
+942,Math Study Group,3,9/5/2023
+943,Coding and Development,5,12/10/2023
+944,Coding and Development,5,3/27/2024
+945,History Buffs,4,4/15/2024
+946,Entrepreneurship Network,5,6/3/2024
+947,Fitness and Wellness Club,2,8/30/2024
+948,Entrepreneurship Network,3,5/23/2024
+949,Theater and Drama Club,2,10/3/2023
+950,History Buffs,5,7/31/2024
+951,Debate Team,4,6/22/2024
+952,Art and Design Society,5,9/3/2023
+953,Debate Team,1,5/12/2024
+954,Book Club,5,8/17/2024
+955,Campus News and Media,5,3/4/2024
+956,Debate Team,1,3/28/2024
+957,Volunteer Outreach Team,2,11/19/2023
+958,Gaming Community,3,7/2/2024
+959,Entrepreneurship Network,5,1/14/2024
+960,Music Lovers,4,10/21/2023
+961,Gaming Community,2,11/12/2023
+962,Coding and Development,5,1/23/2024
+963,Language Learners,5,10/13/2023
+964,Music Lovers,2,11/15/2023
+965,Art and Design Society,5,11/17/2023
+966,Entrepreneurship Network,5,1/22/2024
+967,Photography Club,5,6/27/2024
+968,Book Club,4,4/6/2024
+969,Science Enthusiasts,3,8/29/2024
+970,Robotics Club,3,10/4/2023
+971,Robotics Club,3,8/27/2024
+972,Science Enthusiasts,2,5/25/2024
+973,Environmental Advocacy Group,4,8/20/2024
+974,Creative Writing Circle,5,4/5/2024
+975,Art and Design Society,4,4/23/2024
+976,Photography Club,2,6/15/2024
+977,Science Enthusiasts,4,6/28/2024
+978,Gaming Community,4,10/29/2023
+979,Coding and Development,3,3/24/2024
+980,Science Enthusiasts,1,8/29/2024
+981,Theater and Drama Club,5,3/19/2024
+982,Volunteer Outreach Team,3,9/14/2023
+983,Science Enthusiasts,2,12/23/2023
+984,Art and Design Society,5,5/12/2024
+985,Art and Design Society,5,6/10/2024
+986,Music Lovers,1,7/14/2024
+987,Art and Design Society,2,2/12/2024
+988,Environmental Advocacy Group,4,3/26/2024
+989,Fitness and Wellness Club,3,4/4/2024
+990,Entrepreneurship Network,5,2/12/2024
+991,Coding and Development,3,7/1/2024
+992,Gaming Community,5,3/26/2024
+993,Theater and Drama Club,1,2/28/2024
+994,Cultural Exchange Group,4,2/11/2024
+995,Music Lovers,5,1/30/2024
+996,Gaming Community,4,9/13/2023
+997,Math Study Group,5,5/24/2024
+998,Campus News and Media,3,12/11/2023
+999,Campus News and Media,3,3/14/2024
+1000,Photography Club,1,2/20/2024
